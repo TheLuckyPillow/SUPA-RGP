@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "592ce588-a6e3-4afe-8953-5a600506aab4",
+            "Value": {
+                "id": "cdc33f61-2ccd-430c-97ec-8ed2fce48e07",
+                "resourcePath": "objects\\Inventory\\Inventory.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5ab66c7b-1b51-4c4e-95bd-dfac08c9a659",
             "Value": {
                 "id": "5b07719a-eecb-4dd0-b226-682cbfcedb07",
@@ -131,6 +139,14 @@
             "Value": {
                 "id": "c0bc8ff3-1a21-4bf7-8664-17d4b4131b00",
                 "resourcePath": "views\\80ba2516-c04c-4329-87d9-e69e900549af.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8bd6f793-fc24-47a6-b1be-b487a83d710d",
+            "Value": {
+                "id": "36a06cf3-7324-4bb9-b7ea-f504921e041e",
+                "resourcePath": "views\\8bd6f793-fc24-47a6-b1be-b487a83d710d.yy",
                 "resourceType": "GMFolder"
             }
         },
