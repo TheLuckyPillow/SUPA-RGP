@@ -23,21 +23,21 @@ y_offset = (input_down - input_up) * pl_speed;
 
 //---------------------------- КОЛЛИЗИЯ
 //---- HORISONTAL
-if(place_meeting(x+x_offset, y, obj_Wall))
+if(place_meeting(x+x_offset, y, obj_Collision))
 {
 	repeat (abs (x_offset))
 	{
-		if (!place_meeting(x+sign(x_offset), y, obj_Wall)) x += sign(x_offset);
+		if (!place_meeting(x+sign(x_offset), y, obj_Collision)) x += sign(x_offset);
 		else break;
 	}
 	x_offset = 0;
 }
 //---- VERTICAL
-if(place_meeting(x, y + y_offset, obj_Wall))
+if(place_meeting(x, y + y_offset, obj_Collision))
 {
 	repeat (abs (y_offset))
 	{
-		if (!place_meeting(x, y+sign(y_offset), obj_Wall)) y += sign(y_offset);
+		if (!place_meeting(x, y+sign(y_offset), obj_Collision)) y += sign(y_offset);
 		else break;
 	}
 	y_offset = 0;
