@@ -39,30 +39,6 @@
             }
         },
         {
-            "Key": "02d41bb7-8077-4caa-bb81-1a8b6862484d",
-            "Value": {
-                "id": "a7951876-7933-4582-b814-38e9b1907f85",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_blonde2\\spr_male_hair_bangslong_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "02f47eef-02a3-4d13-a7ce-98fabcd4908e",
-            "Value": {
-                "id": "874159e4-eaa6-42f2-8ebf-1c88addf95bc",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_white_cyan\\spr_female_hair_xlongknot_white_cyan.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "034500e4-ffdb-4f32-b9ef-eaf86e58de82",
-            "Value": {
-                "id": "fe220445-6022-413f-a5fd-539e78f7fa88",
-                "resourcePath": "views\\034500e4-ffdb-4f32-b9ef-eaf86e58de82.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "0371ead0-abe8-4cc2-8dc5-d1d5533f9809",
             "Value": {
                 "id": "7faf70bd-cc39-4c98-aea8-9e85d14d3396",
@@ -75,22 +51,6 @@
             "Value": {
                 "id": "82c43dd5-cecd-4bd3-8955-2020c3a7bb52",
                 "resourcePath": "sprites\\spr_male_eyes_gray\\spr_male_eyes_gray.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "03e5f625-ffe8-4ee4-b5e0-9f307660d7d8",
-            "Value": {
-                "id": "228ad9c9-d844-4352-9c56-fc23b44efd86",
-                "resourcePath": "sprites\\spr_female_ears_bigears_darkelf2\\spr_female_ears_bigears_darkelf2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "04ccb959-f919-4955-915d-aa35ae93e0f7",
-            "Value": {
-                "id": "2f272c70-0aea-4b80-aa1b-c10fadeabef8",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_black\\spr_female_hair_unkempt_black.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -111,22 +71,6 @@
             }
         },
         {
-            "Key": "06bb0273-cdf2-41d8-bfac-2fbc12041227",
-            "Value": {
-                "id": "db565b15-9454-4bab-ad3d-c824e0f12087",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_white_blonde2\\spr_female_hair_unkempt_white_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "06e5000f-70e6-4ec5-92ba-95e0be7ceaed",
-            "Value": {
-                "id": "3833b22a-4300-46c3-9f6f-40173b8bc018",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_brown2\\spr_male_hair_bedheadt_brown2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "086a0ba9-62e6-4611-89b5-f02a48919fbc",
             "Value": {
                 "id": "bcde3254-4c34-4641-9bca-204134a8d80a",
@@ -143,35 +87,11 @@
             }
         },
         {
-            "Key": "099755ca-eda5-4b17-af72-f5697d79b9a0",
-            "Value": {
-                "id": "fa3cd7ac-2608-4eb8-b473-b1a7a45bdb89",
-                "resourcePath": "sprites\\spr_female_hair_swoop_light_blonde\\spr_female_hair_swoop_light_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "09cb4d0d-e102-4eca-bf9f-d7de75cde9a3",
             "Value": {
                 "id": "c94baa22-83f5-43f4-a31f-c681986f2864",
                 "resourcePath": "views\\09cb4d0d-e102-4eca-bf9f-d7de75cde9a3.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "0a433c84-dcb9-4b88-aeb3-a37452c6c47e",
-            "Value": {
-                "id": "0f47e2a1-1ceb-49e7-8a2d-977bb7a45bf7",
-                "resourcePath": "sprites\\spr_female_ears_bigears_dark2\\spr_female_ears_bigears_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "0bdce7e7-19f1-48ee-977b-ca2ef92d37fa",
-            "Value": {
-                "id": "f527efed-d10c-4c9f-bf2c-d42591306b56",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_green2\\spr_female_hair_unkempt_green2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,14 +127,6 @@
             }
         },
         {
-            "Key": "0ee426c6-2cf9-4486-be0e-ad3ec52bc3f4",
-            "Value": {
-                "id": "3d6e77a6-4b84-4b72-aad2-bacea6b86295",
-                "resourcePath": "sprites\\spr_female_hair_swoop_dark_blonde\\spr_female_hair_swoop_dark_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0ee89fbd-4ddd-4419-8aec-95ea8c1365d4",
             "Value": {
                 "id": "bfcd3ebd-f019-4023-87b4-766836630fe3",
@@ -228,30 +140,6 @@
                 "id": "1b75b58e-1b77-4026-8e1c-7605a063e5c0",
                 "resourcePath": "datafiles_yy\\spr_female_base_tanned_1\\spr_female_base_tanned_1.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "0fd4a023-9380-4879-85b0-5e474c07f476",
-            "Value": {
-                "id": "b7f517b7-8a4a-4f6f-a256-9603129a69c4",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_redhead\\spr_female_hair_unkempt_redhead.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "11362ed9-a4ee-4d85-a6b2-e73163d7e24c",
-            "Value": {
-                "id": "48542c39-b2d9-40ee-882a-4a2e66d3f1f1",
-                "resourcePath": "sprites\\spr_female_hair_swoop_brunette\\spr_female_hair_swoop_brunette.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1141a91b-6207-4ed5-9551-7c1c41f92ea0",
-            "Value": {
-                "id": "26196808-953d-496c-9156-886b922f584e",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_black\\spr_female_hair_xlongknot_black.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -295,14 +183,6 @@
             }
         },
         {
-            "Key": "12fbac3c-b523-4742-b28e-ec89838f988f",
-            "Value": {
-                "id": "d7b66aec-6477-4e3b-bb7e-8b27a71be8ed",
-                "resourcePath": "sprites\\spr_female_nose_bignose_tanned2\\spr_female_nose_bignose_tanned2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "132a6456-0ccf-4c5f-8376-71f43baae201",
             "Value": {
                 "id": "e7cfc649-7157-4405-8b34-b4f1291f7df3",
@@ -327,38 +207,6 @@
             }
         },
         {
-            "Key": "14879ede-7914-4b06-a3c1-ba7ec1027b49",
-            "Value": {
-                "id": "d67ebf2a-47cf-4168-8788-4a0701aaab7f",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_purple\\spr_female_hair_xlongknot_purple.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "148b664a-3e02-4066-9f68-80564064d22d",
-            "Value": {
-                "id": "08db760d-0f4e-4607-84a9-a88e38d47130",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_green\\spr_female_hair_unkempt_green.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "162d0e7e-6c0e-40c0-9f16-a9c78a6e635f",
-            "Value": {
-                "id": "c3f6aaa0-514c-4cd5-b525-daa196a101de",
-                "resourcePath": "sprites\\spr_female_hair_xlong_white_blonde2\\spr_female_hair_xlong_white_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1765b2b3-071f-4033-ad30-b2d6bad46a0e",
-            "Value": {
-                "id": "e9f96468-39c2-4ed8-bb0d-827696a9878c",
-                "resourcePath": "sprites\\spr_female_eyes_gray\\spr_female_eyes_gray.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "17a20694-059a-4460-a628-342603061c32",
             "Value": {
                 "id": "c7ab7ab9-cd3a-4631-990e-26ed0e67fb17",
@@ -367,27 +215,11 @@
             }
         },
         {
-            "Key": "17a8d7ce-9893-443c-a0eb-765042f0b253",
-            "Value": {
-                "id": "5a45a3da-b562-41b2-9d11-c0d188085b21",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_gray2\\spr_male_hair_bangslong_gray2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1890a8e5-f3b7-4b95-b28f-58d2fe428a4b",
             "Value": {
                 "id": "eed91c70-3ed0-4837-ba0b-d69698730f2f",
                 "resourcePath": "views\\1890a8e5-f3b7-4b95-b28f-58d2fe428a4b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "189afe5f-506e-4ffd-b085-5b6063bb801d",
-            "Value": {
-                "id": "0e9689f1-b404-493d-adc9-2dd6790f6c5c",
-                "resourcePath": "sprites\\spr_female_hair_swoop_brown2\\spr_female_hair_swoop_brown2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -447,22 +279,6 @@
             }
         },
         {
-            "Key": "1ba17a72-a90d-4c6b-a211-40bb4aabdad6",
-            "Value": {
-                "id": "55648cd5-0572-4e3a-bd75-b9584897ae0a",
-                "resourcePath": "sprites\\spr_female_eyes_orange\\spr_female_eyes_orange.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1bc17ee0-283d-4f86-8df4-86fd7704c4da",
-            "Value": {
-                "id": "28e57142-c0f7-4701-9a50-9313ad3312ae",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_brunette2\\spr_female_hair_xlongknot_brunette2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1d6fc7bc-5747-4e8a-a0b7-cc29e5fb73d9",
             "Value": {
                 "id": "4cbfa16f-fbc1-4aa1-b1a0-89fe0ed4e325",
@@ -475,30 +291,6 @@
             "Value": {
                 "id": "046aaf27-bcac-4594-99a9-e588c1a7501a",
                 "resourcePath": "sprites\\spr_male_hair_bangslong_gold\\spr_male_hair_bangslong_gold.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1e523a45-971f-4d1d-937b-e71c4844cf9d",
-            "Value": {
-                "id": "67788880-0f5c-47d1-ac19-663ebb3f262d",
-                "resourcePath": "sprites\\spr_female_hair_swoop_gray\\spr_female_hair_swoop_gray.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1e5465c4-b020-4a50-88a8-3ccf3dd3552b",
-            "Value": {
-                "id": "c3cefb62-0987-46cb-a7ba-b21e4aa6c75a",
-                "resourcePath": "sprites\\spr_female_hair_xlong_white_blonde\\spr_female_hair_xlong_white_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "1f396761-e742-49ad-bb1c-16d5d18467b3",
-            "Value": {
-                "id": "4edbf1a7-da5a-42df-8902-e12baccb889f",
-                "resourcePath": "sprites\\spr_female_nose_buttonnose_tanned\\spr_female_nose_buttonnose_tanned.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -535,27 +327,11 @@
             }
         },
         {
-            "Key": "21e0611d-a641-4e3f-a6b9-39648eac1b46",
-            "Value": {
-                "id": "769c4562-b479-4eb1-b366-8dd892068701",
-                "resourcePath": "sprites\\spr_female_torso_dress_underdress\\spr_female_torso_dress_underdress.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "227631bb-7183-4d07-8d30-05d9d0128e36",
             "Value": {
                 "id": "ce913f5e-3f17-475f-ad1e-03bb9960cfe3",
                 "resourcePath": "views\\227631bb-7183-4d07-8d30-05d9d0128e36.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "22e808f4-fecb-41c4-91b4-2ade4cb9b24f",
-            "Value": {
-                "id": "064738ec-d999-447f-9d91-5597c9dc11fe",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_white\\spr_female_hair_xlongknot_white.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -587,14 +363,6 @@
             "Value": {
                 "id": "393a90ae-26b7-41c7-ae4f-4d2c2d8c20f4",
                 "resourcePath": "sprites\\spr_male_hair_bangs_raven\\spr_male_hair_bangs_raven.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "247564f2-3fdc-4a07-86aa-ed15c0c108a8",
-            "Value": {
-                "id": "3bc6232f-3045-4c4a-8c7e-cbb6102d954e",
-                "resourcePath": "sprites\\spr_female_legs_metal_pants_female\\spr_female_legs_metal_pants_female.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -631,35 +399,11 @@
             }
         },
         {
-            "Key": "25b4927e-6914-443a-8508-a4004a09e11c",
-            "Value": {
-                "id": "21cd2e8d-0d91-44a6-a8df-fd349e8706e0",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_pink2\\spr_male_hair_bedheadt_pink2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2675a5f0-3598-4a15-be16-8278b11df376",
-            "Value": {
-                "id": "a5d0c083-f6a5-42f1-9ee6-8efbb3560f66",
-                "resourcePath": "sprites\\spr_female_hair_xlong_blonde\\spr_female_hair_xlong_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "27479747-7856-4fb6-ae0f-7c60d7a19cda",
             "Value": {
                 "id": "3572c676-2873-453b-b444-e879bda43c5a",
                 "resourcePath": "datafiles_yy\\spr_male_base_tanned_1\\spr_male_base_tanned_1.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "27bd808f-eea1-4315-978c-8fb9c15c7e3b",
-            "Value": {
-                "id": "191f87cb-ec90-4ef8-8027-4926d12ab700",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_brown2\\spr_female_hair_unkempt_brown2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -695,22 +439,6 @@
             }
         },
         {
-            "Key": "2a4a6aba-92a8-49ab-af2c-2d6785df4c46",
-            "Value": {
-                "id": "0aebc5d1-ad7e-4172-a9c5-f5398aeada80",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_white_blonde\\spr_female_hair_unkempt_white_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2aab01b9-cd11-414d-8de8-b42c613f9b6a",
-            "Value": {
-                "id": "1298702d-0c60-485a-bb21-bfcc08328372",
-                "resourcePath": "sprites\\spr_female_hair_xlong_black\\spr_female_hair_xlong_black.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2b048445-dea7-4977-8f5f-13c25b144c48",
             "Value": {
                 "id": "923d061a-2a41-4342-9764-bdebaee19037",
@@ -723,22 +451,6 @@
             "Value": {
                 "id": "25defe53-ef4e-42c1-8de1-ba2d14e5e381",
                 "resourcePath": "sprites\\spr_male_base_tanned\\spr_male_base_tanned.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2be33812-96dc-4029-b2f6-a2764e82ee7e",
-            "Value": {
-                "id": "7d1de436-63d1-48b6-81f5-f784c7bcdbc0",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_dark_blonde\\spr_female_hair_xlongknot_dark_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2bf64ebf-a79a-4541-9b59-62f4be10952b",
-            "Value": {
-                "id": "b940d0e4-f2b4-46b3-a21d-0e293f65c30c",
-                "resourcePath": "sprites\\spr_female_hair_xlong_green\\spr_female_hair_xlong_green.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -783,14 +495,6 @@
             }
         },
         {
-            "Key": "2da38190-e721-4cee-a6aa-34e7eac49be7",
-            "Value": {
-                "id": "24537874-b8a6-473d-8637-ae9cbf5ac16d",
-                "resourcePath": "sprites\\spr_male_hair_bangs_blonde2\\spr_male_hair_bangs_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2df0a6bd-1f31-4e3c-9dd7-ed4bed60d6c4",
             "Value": {
                 "id": "d6455ce5-a15c-4357-932d-b8269f187352",
@@ -823,14 +527,6 @@
             }
         },
         {
-            "Key": "2e9ba051-9f01-43c5-8fb9-e1e75907cc47",
-            "Value": {
-                "id": "84927fc8-1234-4ba1-bf9c-6b97678fc795",
-                "resourcePath": "sprites\\spr_female_nose_straightnose_dark2\\spr_female_nose_straightnose_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2f2f7fe0-7f33-4efc-8424-bfdce1b6685e",
             "Value": {
                 "id": "66ef209e-eae3-4279-9bfe-0abf1f1a4508",
@@ -843,14 +539,6 @@
             "Value": {
                 "id": "e52bed45-048d-4f1b-8f62-4226f6298feb",
                 "resourcePath": "sprites\\spr_male_hair_bedheadt_redhead\\spr_male_hair_bedheadt_redhead.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3029674a-0685-4f1e-b82e-b1ef883094cb",
-            "Value": {
-                "id": "d79c7e37-2d8d-46d5-99e3-9738a2d3713b",
-                "resourcePath": "sprites\\spr_female_base_tanned2\\spr_female_base_tanned2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -879,14 +567,6 @@
             }
         },
         {
-            "Key": "3180738e-63f0-4825-b482-30eb9a61a2f5",
-            "Value": {
-                "id": "d8376fbe-cdc6-4293-bd0a-5f069da09b1e",
-                "resourcePath": "views\\3180738e-63f0-4825-b482-30eb9a61a2f5.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "31b54ed5-168e-4c52-a084-208d70d7b42c",
             "Value": {
                 "id": "699e1ac3-6478-4fc5-90fd-d6f1a8a4b11c",
@@ -903,35 +583,11 @@
             }
         },
         {
-            "Key": "3272d58d-ae69-4ed4-b4f4-e58d1d0a4927",
-            "Value": {
-                "id": "70064bd0-985a-4a12-bdcc-8597e4f592ec",
-                "resourcePath": "views\\3272d58d-ae69-4ed4-b4f4-e58d1d0a4927.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "32aef6f6-10d1-4ae6-b575-962efe116fa8",
             "Value": {
                 "id": "90549d3f-19fd-41a7-9b06-07997723ced8",
                 "resourcePath": "views\\32aef6f6-10d1-4ae6-b575-962efe116fa8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "32afcad2-e21f-4c1e-9b31-1d9ef69727b0",
-            "Value": {
-                "id": "e18d7b8d-f3b6-46cb-b29e-67a6a61261e2",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_light_blonde2\\spr_male_hair_bangslong_light_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "33d24527-cc1f-4b32-a2a8-eb361b6e5323",
-            "Value": {
-                "id": "cbc982c4-b627-4cd0-b2fb-510620c0c20c",
-                "resourcePath": "sprites\\spr_female_hair_swoop_white_blonde\\spr_female_hair_swoop_white_blonde.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -943,58 +599,10 @@
             }
         },
         {
-            "Key": "34ad96e9-69ea-4b5d-840a-492c9e4c5e69",
-            "Value": {
-                "id": "5d471f06-a7b6-4e27-8281-29cdd6367b44",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_green2\\spr_male_hair_bedheadt_green2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3601414a-6b7f-4874-9cde-4c88d932c15c",
-            "Value": {
-                "id": "f4a921b0-481e-4eb3-b87f-1f1c57a69b13",
-                "resourcePath": "sprites\\spr_female_nose_buttonnose_darkelf\\spr_female_nose_buttonnose_darkelf.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3603c9ab-f9e4-419f-a8d9-5183254ebff0",
             "Value": {
                 "id": "575d12cb-d5ca-48fa-a423-258e0e73e7f2",
                 "resourcePath": "sprites\\spr_male_hair_bangs_white\\spr_male_hair_bangs_white.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "36387a79-d764-4589-b386-1d6199c00962",
-            "Value": {
-                "id": "60483ba8-cf60-4bf1-b501-d4e5561494b4",
-                "resourcePath": "sprites\\spr_female_hair_xlong_white\\spr_female_hair_xlong_white.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "36871fd3-3dc7-47bb-ab1e-8bb36d79230c",
-            "Value": {
-                "id": "b7024f30-d75f-4427-a92b-368b857e735c",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_ruby_red\\spr_female_hair_xlongknot_ruby_red.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "369851b1-8c73-47c2-be7a-627324687ddd",
-            "Value": {
-                "id": "fb188607-c76d-4f28-8784-837a52df552a",
-                "resourcePath": "sprites\\spr_female_base_dark\\spr_female_base_dark.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "37d4ef4a-dde8-4a18-b0d2-9e46bff95a94",
-            "Value": {
-                "id": "f8921c16-472f-4898-9b28-53439f5b8157",
-                "resourcePath": "sprites\\spr_female_nose_bignose_tanned\\spr_female_nose_bignose_tanned.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1015,26 +623,10 @@
             }
         },
         {
-            "Key": "38ddbb3d-4c9c-49bf-b630-de30bb4c3ec3",
-            "Value": {
-                "id": "e5d4c14e-62ba-417c-90d2-8a86196f07fe",
-                "resourcePath": "sprites\\spr_male_hair_bangs_brown2\\spr_male_hair_bangs_brown2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "39950c56-8ec4-4fd9-aa91-a58d7080ab19",
             "Value": {
                 "id": "bb58a00a-4efd-46ec-958d-2da87ee5aef7",
                 "resourcePath": "sprites\\spr_male_ears_bigears_dark2\\spr_male_ears_bigears_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "399d8361-2ecd-4568-a8a3-5e2f7a9a5aa8",
-            "Value": {
-                "id": "23807d56-b77e-4f77-8f2a-1c58e2da36f0",
-                "resourcePath": "sprites\\spr_female_torso_plate_arms_female\\spr_female_torso_plate_arms_female.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1087,35 +679,11 @@
             }
         },
         {
-            "Key": "3dc8d84b-df1f-4139-8c35-1a32e8609a7e",
-            "Value": {
-                "id": "49a54a92-58d4-4737-800b-191b77079cd0",
-                "resourcePath": "sprites\\spr_female_torso_dress_tightdress_black\\spr_female_torso_dress_tightdress_black.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3e24de4d-6e65-4e74-88d3-865dbe191ff0",
             "Value": {
                 "id": "221c2c2e-48f6-4e06-88ed-eedb868f56c4",
                 "resourcePath": "views\\3e24de4d-6e65-4e74-88d3-865dbe191ff0.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "3ee1781f-8b58-46b1-8ee3-e26df49f4a9e",
-            "Value": {
-                "id": "2179ffc4-4b20-44f3-9e17-971aebb6fe09",
-                "resourcePath": "sprites\\spr_female_hair_xlong_dark_blonde\\spr_female_hair_xlong_dark_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3f3cb28f-e9e5-4877-9985-5376cf9ebae2",
-            "Value": {
-                "id": "d23a8bdf-667b-4903-9639-63e4f90ae66d",
-                "resourcePath": "sprites\\spr_female_feet_black_shoes_female\\spr_female_feet_black_shoes_female.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1135,42 +703,10 @@
             }
         },
         {
-            "Key": "3f80d7c1-6069-4ade-9005-d127a68cbea4",
-            "Value": {
-                "id": "429f2658-157e-4979-98d0-2d2037c4d473",
-                "resourcePath": "sprites\\spr_female_feet_slippers_brown\\spr_female_feet_slippers_brown.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "409826e1-c472-4e17-9f37-68ec8f10762a",
-            "Value": {
-                "id": "7491fbc6-8b8e-4a0c-a6f5-f9da3685d628",
-                "resourcePath": "sprites\\spr_female_hair_swoop_gray2\\spr_female_hair_swoop_gray2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "411fcab4-eedf-49f9-84ba-3b7aaeb8f7ef",
-            "Value": {
-                "id": "ed1827e5-4bc1-4be8-9a37-f300b746e552",
-                "resourcePath": "sprites\\spr_female_eyes_blue\\spr_female_eyes_blue.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "42212564-b823-4212-96c8-221974ab12a1",
             "Value": {
                 "id": "508e4728-800b-4c12-a5af-db0808ce4841",
                 "resourcePath": "sprites\\spr_male_legs_metal_pants_male\\spr_male_legs_metal_pants_male.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "424182a7-bed3-40cd-92eb-15552fa85624",
-            "Value": {
-                "id": "20b4b9e7-6a35-4f3f-af87-5b0af8b88cde",
-                "resourcePath": "sprites\\spr_female_base_darkelf2\\spr_female_base_darkelf2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1191,43 +727,11 @@
             }
         },
         {
-            "Key": "430b2a38-b8f1-40c5-bb65-653d623de4de",
-            "Value": {
-                "id": "69dca5fd-776a-4f97-9857-623c66c86b5b",
-                "resourcePath": "sprites\\spr_female_hair_swoop_pink2\\spr_female_hair_swoop_pink2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "43b208cd-1806-4daf-b898-f3247d23fb38",
             "Value": {
                 "id": "608c26dd-655f-4a4d-ab9f-d9b4a8d0d60b",
                 "resourcePath": "objects\\obj_Collision\\obj_Collision.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "43b287ce-7d24-48e6-9a90-060dfe00c85a",
-            "Value": {
-                "id": "2b0da3aa-4cfe-4d06-8ab3-61aa3ab78b44",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_white_cyan\\spr_female_hair_unkempt_white_cyan.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "446fb90c-b9fb-4e5c-9e63-1921dbdcb973",
-            "Value": {
-                "id": "ef261efc-c413-43d7-96b5-64dcd81340e1",
-                "resourcePath": "sprites\\spr_female_eyes_red\\spr_female_eyes_red.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "44c4662d-6069-4c6e-a801-2daebe15d64e",
-            "Value": {
-                "id": "edd4e9bf-7014-4271-a795-53ed28d75fe0",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_green2\\spr_male_hair_bangslong_green2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1239,66 +743,10 @@
             }
         },
         {
-            "Key": "4616ee5d-c1c8-4676-811d-ad2bb09fd512",
-            "Value": {
-                "id": "045b5865-0cfa-48fc-9e9c-71a07da181b0",
-                "resourcePath": "sprites\\spr_female_hair_swoop_brown\\spr_female_hair_swoop_brown.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "46fffd56-1eea-490e-ae80-56461ce84956",
-            "Value": {
-                "id": "7f61dedd-0aca-4886-8afa-56c0ee7b25ae",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_gray2\\spr_male_hair_bedheadt_gray2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "47c553e2-dc7a-43e5-83ef-ca1b44f4a144",
             "Value": {
                 "id": "e6f061a8-d9f0-4e69-ac86-67297dc52cfa",
                 "resourcePath": "sprites\\spr_male_hair_bedheadt_gray\\spr_male_hair_bedheadt_gray.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "48382c01-e732-4c82-953b-0ba52d741f47",
-            "Value": {
-                "id": "6cdcba17-98cb-4ba2-b6bd-7c23c12f0070",
-                "resourcePath": "sprites\\spr_female_base_dark2\\spr_female_base_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4875a35f-8881-4370-9333-252a12930a3b",
-            "Value": {
-                "id": "c9447b06-d33c-4154-9497-b3a0670844f0",
-                "resourcePath": "sprites\\spr_female_torso_plate_chest_female\\spr_female_torso_plate_chest_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "487b024c-ed23-4950-92c7-44efc9c7bf53",
-            "Value": {
-                "id": "3c3658a5-b796-456f-8e09-d088999fdea7",
-                "resourcePath": "sprites\\spr_female_eyes_yellow\\spr_female_eyes_yellow.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "496413d0-d6ca-4fbc-9aea-4a8204640215",
-            "Value": {
-                "id": "716d62dc-4a2b-45e5-8661-7894c22389b1",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_redhead2\\spr_male_hair_bangslong_redhead2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "49ac9eb1-48d6-422b-aff9-71f8d959861d",
-            "Value": {
-                "id": "e0168721-6940-4c1b-bff0-4944429973ef",
-                "resourcePath": "sprites\\spr_female_nose_straightnose_light\\spr_female_nose_straightnose_light.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1311,38 +759,6 @@
             }
         },
         {
-            "Key": "4b1d6c3d-489e-4c65-9f1a-bd2343a4d36c",
-            "Value": {
-                "id": "229508e0-7811-429a-8f07-473bf94dd0ef",
-                "resourcePath": "views\\4b1d6c3d-489e-4c65-9f1a-bd2343a4d36c.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4b49a446-a7f9-4b49-90b0-325ec85a7dde",
-            "Value": {
-                "id": "4d4452c9-6830-463d-a673-1db8ebc88366",
-                "resourcePath": "sprites\\spr_female_feet_ghillies_female_no_th_sh\\spr_female_feet_ghillies_female_no_th_sh.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4bcfeb79-eabf-4d8c-b090-d7781ca3aa76",
-            "Value": {
-                "id": "fc78f99b-a870-46c4-9110-ecc8349b80a2",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_brown\\spr_female_hair_unkempt_brown.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4c107e74-391b-4f1a-bbf7-d580ef17f87c",
-            "Value": {
-                "id": "69ae5cb4-073b-4794-929e-5cad9aeb18fa",
-                "resourcePath": "sprites\\spr_female_eyes_green\\spr_female_eyes_green.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4c26261b-649f-4a93-8374-623a4857c93c",
             "Value": {
                 "id": "9d3be2ae-73b2-44a6-8dc9-19402d5f46bb",
@@ -1351,27 +767,11 @@
             }
         },
         {
-            "Key": "4c91eb20-7c42-4c21-9130-ab5b90745e98",
-            "Value": {
-                "id": "df71c6fb-1402-4831-8b06-9d21b465bffb",
-                "resourcePath": "sprites\\spr_female_feet_metal_boots_female\\spr_female_feet_metal_boots_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4cad6f09-c00b-4ac1-bf02-61f8c8508452",
             "Value": {
                 "id": "a7a4f733-7c55-42fa-a06d-72bb7c97c6bd",
                 "resourcePath": "views\\4cad6f09-c00b-4ac1-bf02-61f8c8508452.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4cb722d3-c93c-4a73-a00e-91e706fec00a",
-            "Value": {
-                "id": "d619de47-d03c-462b-b152-df81bf90af33",
-                "resourcePath": "sprites\\spr_female_nose_straightnose_darkelf\\spr_female_nose_straightnose_darkelf.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1399,22 +799,6 @@
             }
         },
         {
-            "Key": "4eac51a5-ddac-4fc6-a3b1-165fed89386a",
-            "Value": {
-                "id": "e77ebf88-a540-47d7-9288-d8988f8b2ef0",
-                "resourcePath": "sprites\\spr_male_hair_bangs_blue2\\spr_male_hair_bangs_blue2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4f8e395c-811f-4ab6-8ad6-e318f2bc79f2",
-            "Value": {
-                "id": "3f1307be-f0f4-4edd-83b0-ff9e3791c444",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_redhead2\\spr_female_hair_unkempt_redhead2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "50bad2a2-c99b-4dea-891d-3ea4d273b2f6",
             "Value": {
                 "id": "acccd190-b73b-4f94-a388-db58b1c4c319",
@@ -1423,42 +807,10 @@
             }
         },
         {
-            "Key": "51a032cc-bb32-43a4-8c58-d756e4fea9b0",
-            "Value": {
-                "id": "4725c8bd-6901-4707-a50f-01ac14fba433",
-                "resourcePath": "sprites\\spr_female_hair_xlong_green2\\spr_female_hair_xlong_green2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "51a280c7-c618-435c-81a9-f0e97b3ab9e3",
-            "Value": {
-                "id": "fa1ba391-1e51-4492-82cc-9c4b850f66cd",
-                "resourcePath": "views\\51a280c7-c618-435c-81a9-f0e97b3ab9e3.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "51c32b97-349d-4b16-a13e-d7d7708dca14",
             "Value": {
                 "id": "048b5097-738f-4e6e-8230-0784c67d536b",
                 "resourcePath": "sprites\\spr_male_base_orc\\spr_male_base_orc.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "53d3339d-2a34-4f92-8e00-a5966d75b790",
-            "Value": {
-                "id": "59d2d930-c2b7-4b12-9adf-62d0f09e67c0",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_white_blonde\\spr_female_hair_xlongknot_white_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5463344b-f8c8-4ab2-89a6-2fbba776f5da",
-            "Value": {
-                "id": "2f71500d-c1bf-4a66-b8a8-ed5104f402ce",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_brunette2\\spr_female_hair_unkempt_brunette2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1471,26 +823,10 @@
             }
         },
         {
-            "Key": "558a4f77-995d-41bc-94c7-764e9130099b",
-            "Value": {
-                "id": "9a033778-5f25-4841-8d5b-90ccffe74832",
-                "resourcePath": "sprites\\spr_female_hair_swoop_white\\spr_female_hair_swoop_white.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "558d6710-75b8-442d-baa9-5bb0686f1612",
             "Value": {
                 "id": "d97c0e84-b10e-4b02-994f-12037fdab244",
                 "resourcePath": "sprites\\spr_male_nose_straightnose_darkelf\\spr_male_nose_straightnose_darkelf.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5626b470-4fbb-4ab6-b19e-54a1bf785545",
-            "Value": {
-                "id": "222a0e64-db3b-4d77-a168-2642f59d1ff5",
-                "resourcePath": "sprites\\spr_female_torso_dress_tightdress_red\\spr_female_torso_dress_tightdress_red.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1519,14 +855,6 @@
             }
         },
         {
-            "Key": "57a8e0aa-46de-4d8a-b03d-9c7a69cf1d51",
-            "Value": {
-                "id": "ffa99887-8c43-4aea-969b-320b340036f6",
-                "resourcePath": "sprites\\spr_female_ears_bigears_dark\\spr_female_ears_bigears_dark.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5850e382-3140-44d0-8a79-d8e2fc16ded3",
             "Value": {
                 "id": "485a80ce-1c74-440f-a952-2629622eb55b",
@@ -1551,34 +879,10 @@
             }
         },
         {
-            "Key": "5a11be55-e23d-4c9d-b66d-e44da199e079",
-            "Value": {
-                "id": "d9a451b1-8600-4271-bd5e-50b077f9bb4e",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_blue\\spr_female_hair_unkempt_blue.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5a505c92-0f19-4cb2-8684-d3049b2901aa",
-            "Value": {
-                "id": "b9f4e2b7-5539-459a-8fb7-ba63e2d89aeb",
-                "resourcePath": "sprites\\spr_male_hair_bangs_brunette2\\spr_male_hair_bangs_brunette2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5a5b7ac7-a54d-42b4-90c6-71ffccae3cf9",
             "Value": {
                 "id": "47f129ba-0396-4508-b78d-799e6b92b3f3",
                 "resourcePath": "sprites\\spr_male_hair_bedheadt_blonde\\spr_male_hair_bedheadt_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5a769b96-1b99-4c51-9e68-611eeb31e01d",
-            "Value": {
-                "id": "22a458fa-2c9b-4c76-8f24-4c7c4cbedf4a",
-                "resourcePath": "sprites\\spr_female_hair_swoop_light_blonde2\\spr_female_hair_swoop_light_blonde2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1595,14 +899,6 @@
             "Value": {
                 "id": "62d60d2f-e73f-440d-bf2c-7b3fb64d736d",
                 "resourcePath": "sprites\\spr_male_nose_bignose_tanned\\spr_male_nose_bignose_tanned.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5c6de42f-0c2d-446a-999b-c4eeb2f4841f",
-            "Value": {
-                "id": "848f26a0-e1a9-4ec3-ba43-a98f71f726c7",
-                "resourcePath": "sprites\\spr_female_torso_corset_corset_red\\spr_female_torso_corset_corset_red.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1639,14 +935,6 @@
             }
         },
         {
-            "Key": "5d36230b-9364-421f-b1c3-b9f353946bc0",
-            "Value": {
-                "id": "d638916e-482d-4e8e-ad72-695b6b410f0c",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_pink2\\spr_female_hair_unkempt_pink2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5dd8f5e4-eb79-4aee-9a55-ca3f00b4e375",
             "Value": {
                 "id": "b321f34c-4c8c-4cc3-b724-3c1c4ffc580e",
@@ -1679,26 +967,10 @@
             }
         },
         {
-            "Key": "5f5e21f7-3b61-45d5-a04e-1be5f821c9dc",
-            "Value": {
-                "id": "c06f4e14-10cd-43ae-87d5-c7cdd8a0dc7b",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_light_blonde\\spr_female_hair_xlongknot_light_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "5fcde691-287c-4f8e-8c0d-ea6e7a8f009c",
             "Value": {
                 "id": "a83623a0-5fde-43de-8c6e-81a7a05fb671",
                 "resourcePath": "sprites\\spr_male_hair_bedheadt_dark_blonde\\spr_male_hair_bedheadt_dark_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "60c3ba7b-919e-4f0d-bd35-87caa07440b3",
-            "Value": {
-                "id": "f908ef9e-a130-4f61-b1ca-a71dad571254",
-                "resourcePath": "sprites\\spr_female_ears_elvenears_darkelf2\\spr_female_ears_elvenears_darkelf2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1715,14 +987,6 @@
             "Value": {
                 "id": "ae149330-76ad-422a-967c-1e8ce316e7a1",
                 "resourcePath": "sprites\\spr_male_hair_bangslong_light_blonde\\spr_male_hair_bangslong_light_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "62510883-fb72-4c97-adbb-270cf9a78917",
-            "Value": {
-                "id": "449127d5-7ac5-4a66-88d5-0e90e6f4541b",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_raven2\\spr_female_hair_xlongknot_raven2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1767,22 +1031,6 @@
             }
         },
         {
-            "Key": "66488f9b-5c63-478a-ba1a-e03d0c32a93b",
-            "Value": {
-                "id": "858e9f65-22b7-48b7-8520-fc64a6cd5dbf",
-                "resourcePath": "sprites\\spr_female_feet_brown_shoes_female\\spr_female_feet_brown_shoes_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "664ad2c9-f7a8-487c-821f-4965e29c77ae",
-            "Value": {
-                "id": "667a36ed-d10e-43bd-92cb-fddbfe13cb74",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_raven2\\spr_female_hair_unkempt_raven2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "67d3875b-b017-4120-81db-b33ad4d47f19",
             "Value": {
                 "id": "0d9686fd-03ad-41d2-a3cb-cff16b8a9986",
@@ -1815,22 +1063,6 @@
             }
         },
         {
-            "Key": "6b424116-638a-49b0-999f-c8e2607bb94a",
-            "Value": {
-                "id": "4951a243-dc94-445e-8abb-105f851462be",
-                "resourcePath": "sprites\\spr_female_feet_maroon_shoes_female\\spr_female_feet_maroon_shoes_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6bc73704-b06b-42b9-b035-6919d8c24b98",
-            "Value": {
-                "id": "48390eca-574e-4016-bd87-204de5990458",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_brown2\\spr_male_hair_bangslong_brown2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "6c1d4c94-6dcc-484d-8164-f466679c932c",
             "Value": {
                 "id": "9ce1d3ca-59c6-4349-8878-d6a5c4fe61f1",
@@ -1839,50 +1071,10 @@
             }
         },
         {
-            "Key": "6cbc2cb7-bc84-49df-a88d-c82f8d007717",
-            "Value": {
-                "id": "85babd5d-4a80-4923-a024-85a560f773a1",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_light_blonde2\\spr_female_hair_unkempt_light_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "6d0c363b-58c6-4ce5-aba1-c4e2edd86073",
             "Value": {
                 "id": "bc39b62d-53b5-4832-b3c5-e2590f839d25",
                 "resourcePath": "sprites\\spr_male_hair_bangs_gray\\spr_male_hair_bangs_gray.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6d241e47-4aa6-4583-a852-62e240541ad5",
-            "Value": {
-                "id": "facac7b9-7c8c-4fae-8427-fdd5fdfc262a",
-                "resourcePath": "sprites\\spr_female_hair_swoop_white_cyan\\spr_female_hair_swoop_white_cyan.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6d40d5bb-814f-4e24-951e-ca22278e60c6",
-            "Value": {
-                "id": "f94623e2-77b7-4132-b429-a2b1fc187207",
-                "resourcePath": "sprites\\spr_female_hair_swoop_pink\\spr_female_hair_swoop_pink.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6d6f7a51-1d72-4975-8dc1-4cdd8dae1298",
-            "Value": {
-                "id": "7084a321-94e2-4477-8d4c-d819c4ee3f13",
-                "resourcePath": "sprites\\spr_female_nose_bignose_dark\\spr_female_nose_bignose_dark.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6de35ea7-5f99-4fbf-abee-c86f8e740cf2",
-            "Value": {
-                "id": "4d018de8-ce98-4e6e-9283-0e416aee5c0f",
-                "resourcePath": "sprites\\spr_female_base_darkelf\\spr_female_base_darkelf.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1903,34 +1095,10 @@
             }
         },
         {
-            "Key": "6f4b8832-e188-407b-8be8-7b73bab5a026",
-            "Value": {
-                "id": "382ec91c-27c3-48f8-a38d-d80c11c27274",
-                "resourcePath": "sprites\\spr_female_legs_golden_greaves_female\\spr_female_legs_golden_greaves_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "6f688672-ba40-43f8-9581-5cea1cf8baaa",
             "Value": {
                 "id": "40aeb148-9a4a-4dc5-bdb8-b08c59ba50f5",
                 "resourcePath": "sprites\\spr_male_ears_bigears_darkelf2\\spr_male_ears_bigears_darkelf2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6f7da9f6-b49a-46f6-8dcd-6f768d914864",
-            "Value": {
-                "id": "9fa18fb0-3ee3-443a-b8f9-94de8d9c8ead",
-                "resourcePath": "sprites\\spr_female_hair_swoop_blue\\spr_female_hair_swoop_blue.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7224c566-f0ab-4221-af19-01a9ef5d0f75",
-            "Value": {
-                "id": "b0b53b65-0c5d-433c-81e5-4dfcd60c408b",
-                "resourcePath": "sprites\\spr_female_ears_elvenears_tanned\\spr_female_ears_elvenears_tanned.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1943,50 +1111,10 @@
             }
         },
         {
-            "Key": "72c6461e-a49a-4300-be06-f47fa583a4e2",
-            "Value": {
-                "id": "2a0dfc4e-4a73-446d-a040-2cf35baa2bbd",
-                "resourcePath": "sprites\\spr_female_ears_elvenears_tanned2\\spr_female_ears_elvenears_tanned2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "73962dfd-89cf-4181-9c1c-968c836e239c",
-            "Value": {
-                "id": "fef133ec-b5ed-493a-b843-9bfbef89061c",
-                "resourcePath": "sprites\\spr_female_hair_swoop_black\\spr_female_hair_swoop_black.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7399de17-a224-40fa-b10c-688d2c4e6bf2",
-            "Value": {
-                "id": "130a27cf-f0b3-4556-aec3-ce3339a4bfc9",
-                "resourcePath": "sprites\\spr_female_ears_elvenears_dark2\\spr_female_ears_elvenears_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "74083c1a-0e55-462d-8ec0-7421232e7ab7",
-            "Value": {
-                "id": "012c02ea-4eef-4b26-b764-aeb80b66080f",
-                "resourcePath": "sprites\\spr_male_hair_bangs_white_blonde2\\spr_male_hair_bangs_white_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7416309b-ecea-4876-b582-17e890ca0f1a",
             "Value": {
                 "id": "c6957f08-c087-4180-ba11-480bb2430586",
                 "resourcePath": "sprites\\spr_male_nose_bignose_darkelf\\spr_male_nose_bignose_darkelf.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "747ee90d-2ae0-4a7f-bf28-2a43d2864138",
-            "Value": {
-                "id": "3aae0923-b413-4329-b100-66ca8b2926d5",
-                "resourcePath": "sprites\\spr_female_nose_buttonnose_tanned2\\spr_female_nose_buttonnose_tanned2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2015,42 +1143,10 @@
             }
         },
         {
-            "Key": "76261a4c-a53b-4118-9a2e-1a16101712f9",
-            "Value": {
-                "id": "d7a9eecd-997d-48c9-b174-657893eb6a9d",
-                "resourcePath": "sprites\\spr_female_hair_xlong_brown2\\spr_female_hair_xlong_brown2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "776f2e8c-e047-4eb0-a50f-2d4e457c4302",
             "Value": {
                 "id": "01e18688-0b86-4557-a186-d5a367175e43",
                 "resourcePath": "sprites\\spr_male_nose_straightnose_light\\spr_male_nose_straightnose_light.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7795806d-f4b1-4e4f-ad9c-d4739e62b35f",
-            "Value": {
-                "id": "3afdfb20-a568-4218-8819-9d2eed91627d",
-                "resourcePath": "sprites\\spr_female_ears_bigears_darkelf\\spr_female_ears_bigears_darkelf.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "77f3374f-a9f8-4a65-9b8d-1981ec3b6a45",
-            "Value": {
-                "id": "3f9ec81c-2936-47ca-bc4e-2a70341374f1",
-                "resourcePath": "sprites\\spr_female_feet_golden_boots_female\\spr_female_feet_golden_boots_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7808b174-40c6-4495-8679-b933c1399548",
-            "Value": {
-                "id": "59cd8a28-88b6-49dd-b895-368cdafcb28b",
-                "resourcePath": "sprites\\spr_female_nose_bignose_darkelf\\spr_female_nose_bignose_darkelf.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2060,30 +1156,6 @@
                 "id": "3c037f6e-1375-4e4e-9a43-50fbd127d7e5",
                 "resourcePath": "datafiles_yy\\spr_female_base_orc_red\\spr_female_base_orc_red.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7926ce46-e478-4549-8475-530b1cf25b89",
-            "Value": {
-                "id": "4ec98a02-4705-4d81-a66c-d6a8eae32777",
-                "resourcePath": "sprites\\spr_female_nose_buttonnose_dark\\spr_female_nose_buttonnose_dark.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7b6e2929-4f5d-4ddd-b87d-d75dc0ae8115",
-            "Value": {
-                "id": "dd98e689-6d8c-4fe7-8d25-8fd91200966b",
-                "resourcePath": "views\\7b6e2929-4f5d-4ddd-b87d-d75dc0ae8115.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7b971df4-31e5-4cd6-8fe3-9496afbfcd60",
-            "Value": {
-                "id": "74ccbe50-e440-4cbb-ac52-4aa0f4cfbf2d",
-                "resourcePath": "sprites\\spr_female_hair_xlong_purple\\spr_female_hair_xlong_purple.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2119,30 +1191,6 @@
             }
         },
         {
-            "Key": "7d2a8411-56f6-45a1-802a-06ef599b713e",
-            "Value": {
-                "id": "bb1b2184-d865-4559-a965-f5c91d3ad202",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_brown2\\spr_female_hair_xlongknot_brown2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7d9dc194-ea76-4141-8aef-017c916bed33",
-            "Value": {
-                "id": "795ff10b-9dc0-40fb-b2fc-ac6e9c1b9026",
-                "resourcePath": "sprites\\spr_male_hair_bangs_raven2\\spr_male_hair_bangs_raven2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7dbe20d1-8dd1-4b1e-a00e-a058df6d2a70",
-            "Value": {
-                "id": "5554efc5-2b04-4c12-986a-7a8153998f65",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_blue2\\spr_female_hair_unkempt_blue2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7dc76450-b726-41a5-be66-ce5b51ba2c65",
             "Value": {
                 "id": "91fa377c-2135-4570-becc-8e715c031fde",
@@ -2167,27 +1215,11 @@
             }
         },
         {
-            "Key": "7e3e76aa-807f-4920-9070-44e95592b141",
-            "Value": {
-                "id": "e34396ce-0ece-43db-bdd9-12c69fd327a1",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_white_blonde2\\spr_male_hair_bangslong_white_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7e6ff017-f95b-4754-93a8-5dfab7f49de4",
             "Value": {
                 "id": "a3ca335b-5e09-47cb-bdbe-6ab4e427fbd4",
                 "resourcePath": "datafiles_yy\\spr_male_base_light\\layers\\72d0e331-274d-41dd-b1dc-e880998d42fc\\363e7dac-61bb-4eac-b0b0-ca2351778546.png.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "7ee048bc-d564-4165-864f-f94cfd6111cc",
-            "Value": {
-                "id": "2ac6ef5d-ef91-49d7-8c2a-60f6b31c17f9",
-                "resourcePath": "sprites\\spr_female_ears_bigears_tanned2\\spr_female_ears_bigears_tanned2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2231,35 +1263,11 @@
             }
         },
         {
-            "Key": "81944f4b-fcfd-4a9f-aac4-d1a29c3bc383",
-            "Value": {
-                "id": "fe1d1c65-cfe3-4f97-9e4d-6d85cc1fbbc2",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_brunette\\spr_female_hair_xlongknot_brunette.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "81adcd8b-80b7-4322-8c0e-256f230a79b3",
             "Value": {
                 "id": "4f37b55a-bdde-4a55-a3a3-017bbee4ea72",
                 "resourcePath": "datafiles_yy\\spr_male_base_dark_2\\layers\\ba0dfca5-f3ec-4cca-8669-7657f9c561c3\\86c7b1d1-66bb-448f-b9ea-83a148edc115.png.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "81e5155d-d566-48ff-bb15-57577bdde3e5",
-            "Value": {
-                "id": "eedc4c02-7927-4653-9926-8834ccd816aa",
-                "resourcePath": "sprites\\spr_female_hair_swoop_ruby_red\\spr_female_hair_swoop_ruby_red.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "820ecf7a-08e9-46d0-8758-9e893f4eec82",
-            "Value": {
-                "id": "57106bf9-cfe4-4868-88ad-7579f1e0b403",
-                "resourcePath": "sprites\\spr_female_ears_bigears_light\\spr_female_ears_bigears_light.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2271,35 +1279,11 @@
             }
         },
         {
-            "Key": "83843cdc-36de-45c2-be97-ad583b9435b6",
-            "Value": {
-                "id": "086d5b70-d15e-4a70-aa49-774e4af0a52e",
-                "resourcePath": "views\\83843cdc-36de-45c2-be97-ad583b9435b6.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "83865a04-64d8-4daf-882c-7d19ffa4906b",
             "Value": {
                 "id": "c91d4048-7c23-45f6-ba2a-a63932626b9f",
                 "resourcePath": "datafiles_yy\\spr_male_base_orc\\spr_male_base_orc.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "84513fce-d8ab-4662-9109-397538fe810a",
-            "Value": {
-                "id": "58b79e63-24fd-4ff5-9465-9cac906fb22f",
-                "resourcePath": "sprites\\spr_female_nose_bignose_light\\spr_female_nose_bignose_light.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8499afb1-733e-403e-8683-a097f29f639e",
-            "Value": {
-                "id": "b11f5ba3-0487-47da-95e7-9770bb79585a",
-                "resourcePath": "sprites\\spr_female_hair_swoop_blonde2\\spr_female_hair_swoop_blonde2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2343,22 +1327,6 @@
             }
         },
         {
-            "Key": "854e9be4-0b34-4837-a209-033071b93734",
-            "Value": {
-                "id": "e415f324-2465-4acc-8c6f-77b3b7821e6d",
-                "resourcePath": "sprites\\spr_female_hair_swoop_redhead2\\spr_female_hair_swoop_redhead2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "85787dbc-30c9-4940-8711-ae96533d406f",
-            "Value": {
-                "id": "aefe3927-c06c-4971-805a-113553bca6cd",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_blonde2\\spr_male_hair_bedheadt_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "861bd263-9c6f-40c4-9031-57ea98672fa4",
             "Value": {
                 "id": "29fc7dc9-5d33-47d0-81f0-8947089c9572",
@@ -2395,14 +1363,6 @@
             "Value": {
                 "id": "234edb04-db4c-4fa3-94c6-cd398ae921d1",
                 "resourcePath": "sprites\\spr_male_hair_bangslong_white_cyan\\spr_male_hair_bangslong_white_cyan.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8780fe69-0974-4e77-ab90-b3d03066da75",
-            "Value": {
-                "id": "3dff883d-157a-4e4e-acdb-1a93893587f7",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_brown\\spr_female_hair_xlongknot_brown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2447,14 +1407,6 @@
             }
         },
         {
-            "Key": "898f4185-4f0f-4836-bdf6-299fd5d01863",
-            "Value": {
-                "id": "dcece55b-7e64-4e1b-b0e4-328096405bee",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_blue2\\spr_male_hair_bangslong_blue2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "89d1f090-9ed0-4b39-9a33-d1448caff674",
             "Value": {
                 "id": "dcce8217-03ed-41cf-9695-f512e3602573",
@@ -2476,14 +1428,6 @@
                 "id": "94cd2a13-0d99-4ecb-9d5a-bfaf0593b613",
                 "resourcePath": "views\\8aacab12-1b92-4d73-a617-6c1d53c2e4da.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8ab91896-6496-4f92-aef7-2ed0311904d5",
-            "Value": {
-                "id": "9c52415f-cdc8-4387-b765-d2879cd01248",
-                "resourcePath": "sprites\\spr_female_hair_swoop_green2\\spr_female_hair_swoop_green2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2519,50 +1463,10 @@
             }
         },
         {
-            "Key": "8cc5a4c6-ac88-4f73-893a-4999e68bf6f0",
-            "Value": {
-                "id": "2535d352-f385-446a-9afa-b1cc25a9c77d",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_gray\\spr_female_hair_xlongknot_gray.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8d8ff808-b54f-4174-98a8-ea40b6c6da3f",
-            "Value": {
-                "id": "c3d845de-7402-4481-8910-8e73b31d7a3a",
-                "resourcePath": "sprites\\spr_female_torso_corset_corset_black\\spr_female_torso_corset_corset_black.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "8e0b76ba-7a4b-49ce-be62-40df5391c8e3",
             "Value": {
                 "id": "80f16c27-1174-48cc-a02b-566044736f3c",
                 "resourcePath": "sprites\\spr_male_legs_magenta_pants_male\\spr_male_legs_magenta_pants_male.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8e9d2c10-75ec-4662-9942-b4e50d0faaab",
-            "Value": {
-                "id": "6bfca9a6-2dad-4045-b446-6d68e206c965",
-                "resourcePath": "sprites\\spr_female_ears_elvenears_dark\\spr_female_ears_elvenears_dark.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8eec4a7c-6131-44ea-8475-43793c4e9b4a",
-            "Value": {
-                "id": "3c91c413-dbc9-4ba2-8228-a78f4ffc444c",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_pink2\\spr_male_hair_bangslong_pink2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8f0ad8df-4e79-4356-a8c2-c04d23f35219",
-            "Value": {
-                "id": "3143980f-6e01-4195-817e-ee90f2657562",
-                "resourcePath": "sprites\\spr_female_feet_slippers_black\\spr_female_feet_slippers_black.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2575,35 +1479,11 @@
             }
         },
         {
-            "Key": "8f806559-569c-4c22-be4c-4c7a6e7e2758",
-            "Value": {
-                "id": "51340105-9ba3-4af9-b741-10c63f9bcd8a",
-                "resourcePath": "sprites\\spr_female_torso_corset_corset_brown\\spr_female_torso_corset_corset_brown.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "905ea629-ebd6-4e98-881e-be5ba5adad6a",
-            "Value": {
-                "id": "a0b0a747-d7b9-472e-a1a0-f3ae84cf671e",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_gold\\spr_female_hair_unkempt_gold.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "90f760f6-0ce8-4111-9868-8a9038b02eb2",
             "Value": {
                 "id": "8eb501b3-8abf-410b-8764-df734fabbe59",
                 "resourcePath": "views\\90f760f6-0ce8-4111-9868-8a9038b02eb2.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "923613b8-f447-4027-b7f1-ba0ee13ed9f7",
-            "Value": {
-                "id": "27b58f75-6a1f-4d90-b3bd-efdbf8a95f24",
-                "resourcePath": "sprites\\spr_female_torso_dress_blue_vest\\spr_female_torso_dress_blue_vest.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2619,14 +1499,6 @@
             "Value": {
                 "id": "c56938f4-702d-46cb-b8a1-24e3e7e7ac8a",
                 "resourcePath": "sprites\\spr_male_ears_bigears_tanned\\spr_male_ears_bigears_tanned.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "930739ae-efcc-4b97-928d-a15bf7932290",
-            "Value": {
-                "id": "bed32f5a-ad90-4e92-bc78-e5eb66daf558",
-                "resourcePath": "sprites\\spr_female_legs_white_pants_female\\spr_female_legs_white_pants_female.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2671,42 +1543,10 @@
             }
         },
         {
-            "Key": "94d6df18-c90a-4f66-b7db-68fc7f86dae9",
-            "Value": {
-                "id": "e0512685-5190-4c2b-bd82-4fd7c660901b",
-                "resourcePath": "sprites\\spr_female_ears_bigears_tanned\\spr_female_ears_bigears_tanned.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "961a36a2-8ce8-45d7-8269-d9fcd6f05535",
-            "Value": {
-                "id": "ef01f207-15a9-4c5c-9039-d266b2bed999",
-                "resourcePath": "views\\961a36a2-8ce8-45d7-8269-d9fcd6f05535.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "961b663a-82dd-4f17-9f90-5a35413f6301",
             "Value": {
                 "id": "19b4c095-0d2b-41de-8a1e-9036018b779c",
                 "resourcePath": "sprites\\spr_male_eyes_green\\spr_male_eyes_green.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "96aed6dd-2afa-4476-b0c5-48a5a9864bc6",
-            "Value": {
-                "id": "e6e7bc53-c937-487a-95b2-5e6e382d054a",
-                "resourcePath": "sprites\\spr_female_hair_xlong_redhead\\spr_female_hair_xlong_redhead.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "96d28716-557d-46d3-8a6a-1220283ebb9c",
-            "Value": {
-                "id": "dcc5267d-814c-4cff-be40-d4da48222fe2",
-                "resourcePath": "sprites\\spr_female_base_orc\\spr_female_base_orc.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2727,38 +1567,6 @@
             }
         },
         {
-            "Key": "9764d017-fbf2-4679-9417-61561ce589e9",
-            "Value": {
-                "id": "26b0b241-214b-4acf-82fc-3b19be06e659",
-                "resourcePath": "sprites\\spr_female_hair_swoop_redhead\\spr_female_hair_swoop_redhead.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9a158321-5d62-43c9-923e-6396633a13bf",
-            "Value": {
-                "id": "553741ff-93df-4b77-98d1-ad24d3b8b15f",
-                "resourcePath": "sprites\\spr_female_hair_swoop_blue2\\spr_female_hair_swoop_blue2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9a62c99e-b827-4e92-836f-d1a5fddbacaa",
-            "Value": {
-                "id": "343e893c-3a8e-4039-87c8-8ad879e54df5",
-                "resourcePath": "sprites\\spr_female_hair_swoop_gold\\spr_female_hair_swoop_gold.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9ad21623-414b-410f-bbba-efb2853905cc",
-            "Value": {
-                "id": "317bf605-fca1-4beb-b26b-9a25e0f06487",
-                "resourcePath": "sprites\\spr_female_torso_dress_dress_w_sash_female\\spr_female_torso_dress_dress_w_sash_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9b9dd87a-2f2d-4737-82f2-d7e844441f45",
             "Value": {
                 "id": "c552bd0d-ca0a-4bf3-936c-1a5bc6fd0151",
@@ -2775,46 +1583,6 @@
             }
         },
         {
-            "Key": "9cf56d28-1567-461d-9ba9-fb9460c3b03a",
-            "Value": {
-                "id": "18d76ae1-5623-46c9-b8f2-6844d0239cb6",
-                "resourcePath": "sprites\\spr_female_torso_dress_tightdress_white\\spr_female_torso_dress_tightdress_white.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9d3537ec-04fc-460b-b2fc-964749cb92c1",
-            "Value": {
-                "id": "81cbaa12-efc6-4010-b54f-26c15c91b702",
-                "resourcePath": "sprites\\spr_female_nose_bignose_darkelf2\\spr_female_nose_bignose_darkelf2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9d3c28c0-a18c-48b5-a169-a2e4d178c796",
-            "Value": {
-                "id": "97d2587a-a51f-4a2f-bc6d-927bd16107d9",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_redhead\\spr_female_hair_xlongknot_redhead.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9d934851-2698-4f0d-8a14-32fa758e9f02",
-            "Value": {
-                "id": "a65568ca-377e-4cc6-afdf-e18de00f6644",
-                "resourcePath": "sprites\\spr_female_torso_gold_arms_female\\spr_female_torso_gold_arms_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9dcbdaf5-41b9-42c6-854a-69e577679e84",
-            "Value": {
-                "id": "233974ea-fb65-4c4b-aa74-3f955a2e7ffe",
-                "resourcePath": "sprites\\spr_female_hair_xlong_light_blonde\\spr_female_hair_xlong_light_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9e680c42-3786-4880-8d82-6eb7cc72d7b5",
             "Value": {
                 "id": "8dadd6ec-ea70-4bd2-bc13-7dddbeb46f31",
@@ -2828,14 +1596,6 @@
                 "id": "df44b16a-c469-4bfa-91b0-f5669cef6735",
                 "resourcePath": "views\\a061630a-dda3-4fa3-bd37-0db149097c6c.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a1256354-aecd-4227-9bac-c9896a4b2df9",
-            "Value": {
-                "id": "67704a50-d4e9-48b3-8462-d4a1a2da8af3",
-                "resourcePath": "sprites\\spr_male_hair_bangs_gray2\\spr_male_hair_bangs_gray2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2863,22 +1623,6 @@
             }
         },
         {
-            "Key": "a3a345d0-1388-4f93-ac44-b39dadc5c101",
-            "Value": {
-                "id": "52e014fe-fa2e-4a11-9740-c5ad5edcea4a",
-                "resourcePath": "sprites\\spr_female_hair_xlong_raven2\\spr_female_hair_xlong_raven2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a4b8c1df-0a07-41e8-8600-9062742e1b10",
-            "Value": {
-                "id": "959d74ea-97d9-4787-bfdd-553a39078fb3",
-                "resourcePath": "views\\a4b8c1df-0a07-41e8-8600-9062742e1b10.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "a4eaa97b-b2f7-40ab-a852-16f6f51ad53c",
             "Value": {
                 "id": "19d6162f-49d6-404e-8ea0-ecdefffd1f7f",
@@ -2903,27 +1647,11 @@
             }
         },
         {
-            "Key": "a59fa4b7-680b-4237-bcfa-1cdf3332e0cd",
-            "Value": {
-                "id": "a68472bd-9c67-4bd7-a4ef-dfb6cd0462e6",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_ruby_red\\spr_female_hair_unkempt_ruby_red.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a5b48b42-4bf5-402f-9007-f92cfef226b2",
             "Value": {
                 "id": "93dd5efe-f9b7-444d-8750-7dc0824d0f76",
                 "resourcePath": "sprites\\spr_male_ears_elvenears_darkelf2\\spr_male_ears_elvenears_darkelf2.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a611e184-9908-4393-ac4c-2130062454bf",
-            "Value": {
-                "id": "96e3f600-703d-4a41-b1db-01a3ce00b40a",
-                "resourcePath": "views\\a611e184-9908-4393-ac4c-2130062454bf.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -2967,14 +1695,6 @@
             }
         },
         {
-            "Key": "a7f5845b-b5ec-420b-8685-e92840eef725",
-            "Value": {
-                "id": "68caaf43-a682-44f7-8d55-4c5517a6d3f9",
-                "resourcePath": "views\\a7f5845b-b5ec-420b-8685-e92840eef725.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "a8f5fdfe-ea8a-4694-95a5-2e29f77b9009",
             "Value": {
                 "id": "2a6678b0-a3fe-45d7-939e-7d15534043fb",
@@ -2991,30 +1711,6 @@
             }
         },
         {
-            "Key": "a94528fd-63df-4f98-b13e-ddea6c3e5a12",
-            "Value": {
-                "id": "9bdb50a9-62f6-4576-9e66-9aa8874cf3d6",
-                "resourcePath": "views\\a94528fd-63df-4f98-b13e-ddea6c3e5a12.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "aaa71a8e-4a3a-43af-9bb8-3be467a5d124",
-            "Value": {
-                "id": "be9a7290-2304-4e4e-8756-6a499825e73d",
-                "resourcePath": "sprites\\spr_female_torso_gold_chest_female\\spr_female_torso_gold_chest_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "aac35d29-7779-4954-8d13-b72049443688",
-            "Value": {
-                "id": "35bec64a-318e-4036-a6b2-c202a5c2e25c",
-                "resourcePath": "views\\aac35d29-7779-4954-8d13-b72049443688.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "ab3c66d4-4bf7-4921-b775-d2adf630f4e0",
             "Value": {
                 "id": "0eee2874-ce02-418d-bc96-25ca67448629",
@@ -3023,26 +1719,10 @@
             }
         },
         {
-            "Key": "abb9108b-23fd-4510-8ec5-6a542f5dc00d",
-            "Value": {
-                "id": "7128f032-7d99-4ef0-ac8d-d65694f2d34c",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_raven2\\spr_male_hair_bedheadt_raven2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "ac47565e-0771-4483-a379-e2899c431552",
             "Value": {
                 "id": "dab7b6ce-abf9-47b9-8c7c-9ea9731fd99e",
                 "resourcePath": "sprites\\spr_male_nose_bignose_light\\spr_male_nose_bignose_light.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ada0cade-810c-4592-bcaa-8ca269edd846",
-            "Value": {
-                "id": "291b2227-768c-435c-bf0e-fc2598e08847",
-                "resourcePath": "sprites\\spr_female_hair_xlong_brunette\\spr_female_hair_xlong_brunette.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3087,26 +1767,10 @@
             }
         },
         {
-            "Key": "b2086f24-fbc4-4039-808e-b587565e1445",
-            "Value": {
-                "id": "b49f7d64-ebf4-4d1f-8ab2-b2f091bc382e",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_raven\\spr_female_hair_xlongknot_raven.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b208b355-4ad9-4cf4-bfad-52390c2caf66",
             "Value": {
                 "id": "bd0a035b-c1cd-4921-bb96-55e079e53c96",
                 "resourcePath": "sprites\\spr_male_ears_elvenears_darkelf\\spr_male_ears_elvenears_darkelf.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b27064d1-7d74-4372-a023-61b1c4850d10",
-            "Value": {
-                "id": "e3c085c7-ce79-48e4-9b35-d44bfb37eb73",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_pink\\spr_female_hair_xlongknot_pink.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3119,27 +1783,11 @@
             }
         },
         {
-            "Key": "b3e3d3ba-0ba0-4087-8496-b4fe8901109a",
-            "Value": {
-                "id": "11ca1565-ef6b-4538-97e2-2773d59debeb",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_gray2\\spr_female_hair_unkempt_gray2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b48d132d-ec13-44db-8811-570e905a0e54",
             "Value": {
                 "id": "1d39fd15-ed95-427c-aa97-6ba45e15f901",
                 "resourcePath": "views\\b48d132d-ec13-44db-8811-570e905a0e54.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b4f3494b-ca20-4096-8368-165d26b3feb1",
-            "Value": {
-                "id": "8e82ca77-7dc4-4a60-90ab-014551f181b7",
-                "resourcePath": "sprites\\spr_female_feet_slippers_white\\spr_female_feet_slippers_white.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3151,35 +1799,11 @@
             }
         },
         {
-            "Key": "b5aaf915-8d0d-4234-82e9-bb1da426b54b",
-            "Value": {
-                "id": "931a5202-1921-4c08-98d7-5db5fc184485",
-                "resourcePath": "sprites\\spr_female_base_tanned\\spr_female_base_tanned.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b5b4585d-c3c2-4066-9f37-354576675aa0",
             "Value": {
                 "id": "81323e89-f4c4-4f86-8189-5150cce4994f",
                 "resourcePath": "datafiles_yy\\spr_female_base_light\\layers\\71e73718-db1f-44a5-8ca7-950627268030\\eb379819-67c3-40af-b558-60aa1e0ea061.png.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "b5e04568-9c6e-4f68-b769-4fb84260a52c",
-            "Value": {
-                "id": "b9baf30f-008e-4236-bdca-e25c61ffc674",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_blonde\\spr_female_hair_xlongknot_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b64499e0-e269-483a-bf96-9edcc747a288",
-            "Value": {
-                "id": "40869918-8e5b-4489-8a3e-e976df9911ef",
-                "resourcePath": "sprites\\spr_female_hair_xlong_gray\\spr_female_hair_xlong_gray.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3215,46 +1839,6 @@
             }
         },
         {
-            "Key": "b813acd5-5b31-478e-a465-bdcfc024d16b",
-            "Value": {
-                "id": "4df9ef2f-4d7d-4d39-9b63-33477012332f",
-                "resourcePath": "sprites\\spr_female_legs_magenta_pants_female\\spr_female_legs_magenta_pants_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b8b8272d-856f-4e97-b66d-27d570ba88b0",
-            "Value": {
-                "id": "ba093af3-1db5-42f3-b21a-d623f2e338ae",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_blue\\spr_female_hair_xlongknot_blue.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b8dcdc02-51f4-49f1-804f-cd1b373c3770",
-            "Value": {
-                "id": "0d7ab9a5-f28c-4d25-ac9d-041ee5abf589",
-                "resourcePath": "views\\b8dcdc02-51f4-49f1-804f-cd1b373c3770.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ba893077-2992-48ad-8e76-999a1af2b4a6",
-            "Value": {
-                "id": "480d92f4-7284-454e-b353-ba54e24751a5",
-                "resourcePath": "sprites\\spr_female_torso_dress_overskirt\\spr_female_torso_dress_overskirt.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "bb736c98-868d-4518-81dc-7535a447e98b",
-            "Value": {
-                "id": "c55f207c-deba-4eb6-8117-5d9713130e9d",
-                "resourcePath": "sprites\\spr_female_eyes_brown\\spr_female_eyes_brown.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "bb987f2d-0d0d-4fbf-9a8e-f90aa9fe76ba",
             "Value": {
                 "id": "bcea94f3-63fa-42fa-8e7a-d4938d730325",
@@ -3271,34 +1855,10 @@
             }
         },
         {
-            "Key": "bc6300de-568f-49df-89d2-ea397067fc0b",
-            "Value": {
-                "id": "809abccb-ecca-41b2-bb5e-db3e3d581efe",
-                "resourcePath": "sprites\\spr_female_hair_swoop_white_blonde2\\spr_female_hair_swoop_white_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "be1cb9b3-25a9-41e0-9cf4-4ebf5fb5af18",
-            "Value": {
-                "id": "44349437-bd60-4972-ac86-a3d8d76b7f02",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_brunette2\\spr_male_hair_bedheadt_brunette2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "bf5a0a20-d3df-4553-809f-a020dc02659e",
             "Value": {
                 "id": "d43f3981-6eed-4866-b87f-a81667274270",
                 "resourcePath": "sprites\\spr_Stamina\\spr_Stamina.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "bfdcb373-02fb-4fd4-a05f-978b2ebd25d8",
-            "Value": {
-                "id": "fd272cb8-61cd-484b-ac6e-af1775cd7488",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_blonde\\spr_female_hair_unkempt_blonde.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3311,27 +1871,11 @@
             }
         },
         {
-            "Key": "c07bdaff-72b8-4af0-8f4f-c5d97baf8c0d",
-            "Value": {
-                "id": "5dc3ea06-4ff5-4346-9b5a-bcaa004c473a",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_light_blonde\\spr_female_hair_unkempt_light_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c09d233f-6d75-4946-af00-2545d1b43d89",
             "Value": {
                 "id": "2ef56332-4c91-4f39-834d-32b6c0773290",
                 "resourcePath": "sprites\\spr_male_base_darkelf\\spr_male_base_darkelf.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c0b76f96-74fd-44e4-a14b-e2d7b76bab7e",
-            "Value": {
-                "id": "ab362f45-95e4-4d89-a839-1a69465d42c6",
-                "resourcePath": "views\\c0b76f96-74fd-44e4-a14b-e2d7b76bab7e.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -3343,43 +1887,11 @@
             }
         },
         {
-            "Key": "c1ceea63-3fdc-49f0-a7aa-189b86ec664a",
-            "Value": {
-                "id": "d2411f73-ddf3-4222-9f81-002a94bfe3ca",
-                "resourcePath": "sprites\\spr_male_hair_bangs_light_blonde2\\spr_male_hair_bangs_light_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c1dfd5fa-68cc-4a80-a1b6-1a0b90080f1c",
             "Value": {
                 "id": "0f2a7a50-e188-45ec-94b7-34190f03d5bc",
                 "resourcePath": "datafiles_yy\\spr_male_base_skeleton\\layers\\addaf27e-8855-46e1-8ecd-2ac4cb18edf4\\b9ecb62a-9d3c-493c-9ef6-bcc9764e1289.png.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c25de047-2fcd-42ec-a63e-228804b9d77d",
-            "Value": {
-                "id": "285cf797-6eff-48a0-af89-6ba2e5438a59",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_dark_blonde\\spr_female_hair_unkempt_dark_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c26993a1-86d7-4ddd-a1c2-3f1673d15d6f",
-            "Value": {
-                "id": "974930cc-b1d0-45cb-a62c-937f07b89df5",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_redhead2\\spr_male_hair_bedheadt_redhead2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c4352dea-9798-4792-a19d-b06487af5688",
-            "Value": {
-                "id": "2b7692cd-2144-4d4e-8334-e30cf80973d1",
-                "resourcePath": "sprites\\spr_female_hair_xlong_gold\\spr_female_hair_xlong_gold.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3404,14 +1916,6 @@
                 "id": "84c047b8-8537-4637-87f1-8b72e7a6fbb1",
                 "resourcePath": "datafiles_yy\\spr_male_base_dark_2\\spr_male_base_dark_2.yy.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c625b14e-1e95-49fc-8c8e-c42cc8108751",
-            "Value": {
-                "id": "4672513e-7945-4a71-b887-1ba72ad3fce4",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_light_blonde2\\spr_male_hair_bedheadt_light_blonde2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3447,42 +1951,10 @@
             }
         },
         {
-            "Key": "c9ccc196-cbd4-4f82-8dd2-95c5a22d899b",
-            "Value": {
-                "id": "fbae4cda-a7be-4eb1-9e6e-46e759969a24",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_white_blonde2\\spr_male_hair_bedheadt_white_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c9fe7413-6934-4031-8f0a-69d852458a2f",
-            "Value": {
-                "id": "bb1817f3-90c8-48e9-8ea7-1c939cf7671f",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_blue2\\spr_female_hair_xlongknot_blue2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "caad3230-501b-4311-a15c-b2feb27522df",
             "Value": {
                 "id": "63d103a0-df19-4d05-b704-6a2c1a050fe7",
                 "resourcePath": "sprites\\spr_male_hair_bedheadt_white\\spr_male_hair_bedheadt_white.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cb4cc00e-ab64-465a-b24f-78d4256a988f",
-            "Value": {
-                "id": "79d7e403-8d0e-4c6a-9eaa-3ebe2fe7419b",
-                "resourcePath": "sprites\\spr_male_hair_bedheadt_blue2\\spr_male_hair_bedheadt_blue2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cbf8be57-8fc7-4b10-a20a-fcdbd0bb9456",
-            "Value": {
-                "id": "642f8c72-a247-4464-af96-4ec44ab47c3d",
-                "resourcePath": "sprites\\spr_female_hair_xlong_brown\\spr_female_hair_xlong_brown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3519,38 +1991,6 @@
             }
         },
         {
-            "Key": "ccc5fb2a-dc72-422e-9d66-95780e626db1",
-            "Value": {
-                "id": "af4b0337-5932-415b-863e-1c5614d37f8a",
-                "resourcePath": "sprites\\spr_female_legs_teal_pants_female\\spr_female_legs_teal_pants_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cd0f6569-93d7-4bfb-96ae-8f5568fb5bb4",
-            "Value": {
-                "id": "30594cfe-0b08-4626-8716-17d64f88532d",
-                "resourcePath": "sprites\\spr_female_nose_buttonnose_dark2\\spr_female_nose_buttonnose_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cdf94ae2-7e1e-4a33-a64e-5c95c56939f3",
-            "Value": {
-                "id": "16ecccf4-4842-44ac-8f57-1653607956d2",
-                "resourcePath": "sprites\\spr_female_hair_xlong_raven\\spr_female_hair_xlong_raven.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cec42781-5cc8-4973-8618-0affbb3827fa",
-            "Value": {
-                "id": "9a6825bf-bdff-48e1-bb0e-cfd914f71377",
-                "resourcePath": "sprites\\spr_female_hair_xlong_blonde2\\spr_female_hair_xlong_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cf0336b5-485d-461a-81b5-170416fa7084",
             "Value": {
                 "id": "b5d528a7-2055-467e-8559-677c077bf089",
@@ -3572,22 +2012,6 @@
                 "id": "9751ac56-7e0f-4125-82b7-ea7b03e2558d",
                 "resourcePath": "views\\cf8c99b6-5a12-4bba-974f-d1ff3c60db86.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "cfde6d4b-3b85-48b4-81a1-a9c0388bbc75",
-            "Value": {
-                "id": "6e6a188a-4c86-4d8d-b3c4-6e18f47dd142",
-                "resourcePath": "sprites\\spr_female_hair_xlong_redhead2\\spr_female_hair_xlong_redhead2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d0007b2f-cd25-469d-8d79-ed48ff17972f",
-            "Value": {
-                "id": "3555dc5c-24c7-4c35-b3dc-05efbfe46547",
-                "resourcePath": "sprites\\spr_female_hair_xlong_pink\\spr_female_hair_xlong_pink.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3615,14 +2039,6 @@
             }
         },
         {
-            "Key": "d0c93aef-fdb3-4aa0-b0ac-e59e989be881",
-            "Value": {
-                "id": "251ca9b2-eb71-4ab6-afe0-31d647d9fc5f",
-                "resourcePath": "sprites\\spr_male_hair_bangs_pink2\\spr_male_hair_bangs_pink2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d125c431-4d7e-4d77-9d5e-14e176e339b2",
             "Value": {
                 "id": "f2eaafdb-4530-4ccd-8c03-274fdd6c403e",
@@ -3631,43 +2047,11 @@
             }
         },
         {
-            "Key": "d1956d0a-9e40-49be-98f2-557a261001b2",
-            "Value": {
-                "id": "e672002e-b581-44e1-ace1-79e033f12982",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_brunette\\spr_female_hair_unkempt_brunette.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d1d906b0-db35-43e4-802b-a8addb179b4e",
-            "Value": {
-                "id": "f657d670-97c8-4ff6-aaba-5ba34d4ffcc3",
-                "resourcePath": "sprites\\spr_female_base_red_orc\\spr_female_base_red_orc.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d1efacce-1dde-4ecb-8292-72b689ec06e3",
             "Value": {
                 "id": "4d30a3d4-beec-4643-a30c-562145a02de1",
                 "resourcePath": "views\\d1efacce-1dde-4ecb-8292-72b689ec06e3.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d233374c-bfc0-46e2-aa9d-fbcff800f4d1",
-            "Value": {
-                "id": "3d228cb6-4f4b-48d7-8af6-c0c15ef0f0c1",
-                "resourcePath": "sprites\\spr_female_hair_xlong_brunette2\\spr_female_hair_xlong_brunette2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d244caa3-cefc-4125-a73c-9220c60e24b3",
-            "Value": {
-                "id": "31f3d14a-6eac-431a-b534-42e57561ef3d",
-                "resourcePath": "sprites\\spr_female_hair_xlong_gray2\\spr_female_hair_xlong_gray2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3687,34 +2071,10 @@
             }
         },
         {
-            "Key": "d40a10d2-8de6-4b2a-94f0-d981fb37bf26",
-            "Value": {
-                "id": "91d02a97-55e5-4ccf-b6d4-76768857773f",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_blonde2\\spr_female_hair_xlongknot_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d46feaea-cc04-40d2-91fb-2a9245b9905e",
             "Value": {
                 "id": "24c72b03-65be-4d88-bb46-8a8b30da8fe2",
                 "resourcePath": "sprites\\spr_male_nose_straightnose_dark2\\spr_male_nose_straightnose_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d48dd887-97b7-4450-bce2-464049a33610",
-            "Value": {
-                "id": "20e61cdf-019a-40ac-bebe-bcc8e483417f",
-                "resourcePath": "sprites\\spr_female_nose_straightnose_tanned2\\spr_female_nose_straightnose_tanned2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d4b60d64-2677-44cf-8867-4cc804df587a",
-            "Value": {
-                "id": "f6704f99-049c-42b7-8b24-bbbf746892ba",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_pink2\\spr_female_hair_xlongknot_pink2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3732,22 +2092,6 @@
                 "id": "32c8960b-17be-46e0-9233-a91a7b2e8a91",
                 "resourcePath": "objects\\obj_Player\\obj_Player.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d7a69250-930b-4793-9600-206aeaabc4ee",
-            "Value": {
-                "id": "cf9569b7-4f9d-41b1-9abc-529c11391264",
-                "resourcePath": "sprites\\spr_female_ears_elvenears_light\\spr_female_ears_elvenears_light.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d830862f-4076-49f0-9060-c4b6262e2732",
-            "Value": {
-                "id": "9078b703-75a3-45f3-8e8d-9b08f78abe7d",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_white\\spr_female_hair_unkempt_white.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3775,43 +2119,11 @@
             }
         },
         {
-            "Key": "da937a0e-fb7b-4c52-93df-48579c59ce9d",
-            "Value": {
-                "id": "50f5e6fa-c096-4c36-9fe7-abf8fbe36512",
-                "resourcePath": "sprites\\spr_female_nose_straightnose_darkelf2\\spr_female_nose_straightnose_darkelf2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dafc466e-e73a-487f-8af5-4baa3d917b12",
-            "Value": {
-                "id": "a87ade5c-da06-44c0-8886-ea472b46ff3e",
-                "resourcePath": "views\\dafc466e-e73a-487f-8af5-4baa3d917b12.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "db0193fe-4a4e-4fb1-b087-7d0e681d5181",
             "Value": {
                 "id": "e8089958-1175-4cd6-ae2f-2685371f02e0",
                 "resourcePath": "views\\db0193fe-4a4e-4fb1-b087-7d0e681d5181.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "dbaeb5e5-a455-47a5-950e-13875f2e8947",
-            "Value": {
-                "id": "1d36a7ff-c4e8-4788-a841-f6abac692286",
-                "resourcePath": "sprites\\spr_female_hair_xlong_blue2\\spr_female_hair_xlong_blue2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dce2d40f-9f9e-41e5-b4f4-41e11f1045db",
-            "Value": {
-                "id": "8b10da78-3c93-4803-8433-c9e5bb86e7cb",
-                "resourcePath": "sprites\\spr_male_hair_bangs_redhead2\\spr_male_hair_bangs_redhead2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3827,38 +2139,6 @@
             "Value": {
                 "id": "93be61ab-c2d2-4781-bb9b-5372520b57a7",
                 "resourcePath": "sprites\\spr_male_hair_bangslong_raven\\spr_male_hair_bangslong_raven.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "de61a131-8fbe-4c19-863d-b62b32745974",
-            "Value": {
-                "id": "6077a698-075f-4776-b4e3-6b227d9df7cb",
-                "resourcePath": "sprites\\spr_female_nose_buttonnose_darkelf2\\spr_female_nose_buttonnose_darkelf2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "de7ecff3-0a1a-44bd-acb9-a735e3bfe38e",
-            "Value": {
-                "id": "b21cbfa8-7c7a-4963-bca1-f093431b52ce",
-                "resourcePath": "sprites\\spr_female_legs_robe_skirt_female_incomplete\\spr_female_legs_robe_skirt_female_incomplete.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dede5f08-393d-4456-9c25-73d5696f8a92",
-            "Value": {
-                "id": "8bfec3cc-5ecc-4f93-9627-3d1c8bb908d9",
-                "resourcePath": "sprites\\spr_female_nose_bignose_dark2\\spr_female_nose_bignose_dark2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dfa2e9df-6423-4613-bc5d-8233236e3c37",
-            "Value": {
-                "id": "743c8630-024f-4900-b9ae-6fc4df1168b0",
-                "resourcePath": "sprites\\spr_female_base_light\\spr_female_base_light.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3879,27 +2159,11 @@
             }
         },
         {
-            "Key": "e0dc6fad-03d4-42d6-8897-3de896b54a50",
-            "Value": {
-                "id": "90f56e56-6486-4ca5-9714-9d3b06515cf1",
-                "resourcePath": "sprites\\spr_female_hair_xlong_white_cyan\\spr_female_hair_xlong_white_cyan.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e0ddcbe3-184f-421d-95e3-be91f70fa920",
             "Value": {
                 "id": "154cac10-36d4-467e-b74d-33f48f8a488a",
                 "resourcePath": "views\\e0ddcbe3-184f-421d-95e3-be91f70fa920.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e1f13e2c-211e-4025-bfaa-be6fcb9102bd",
-            "Value": {
-                "id": "3e7498d4-0d11-44b6-974d-88fedf239a59",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_green2\\spr_female_hair_xlongknot_green2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3923,46 +2187,6 @@
             "Value": {
                 "id": "a83b7528-b890-4029-868d-4862848570e6",
                 "resourcePath": "sprites\\spr_male_hair_bangs_white_blonde\\spr_male_hair_bangs_white_blonde.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e311ac2c-66f6-4ba6-9f07-b385dd056f55",
-            "Value": {
-                "id": "e30a09a7-3683-4d78-8fa0-f23b6c53df26",
-                "resourcePath": "sprites\\spr_female_hair_xlong_ruby_red\\spr_female_hair_xlong_ruby_red.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e3464e45-128d-4cf0-925a-e5b820cf576e",
-            "Value": {
-                "id": "afeeed17-a714-44fa-9987-5efdc55524b6",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_brunette2\\spr_male_hair_bangslong_brunette2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e349062a-4868-4bdb-a297-e9cdb920e61b",
-            "Value": {
-                "id": "0e9109f2-ec1a-414a-bbfd-1f852c9e9bbc",
-                "resourcePath": "sprites\\spr_female_hair_swoop_purple\\spr_female_hair_swoop_purple.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e3dd4654-08d6-4ca5-8d08-cfe8007ab61c",
-            "Value": {
-                "id": "b85b606e-6901-41ca-b59f-58da34ad6fe9",
-                "resourcePath": "sprites\\spr_female_legs_red_pants_female\\spr_female_legs_red_pants_female.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e43dfe62-d623-428b-9340-3dde045da223",
-            "Value": {
-                "id": "6379233d-492d-45c3-a92a-66a8fd76214e",
-                "resourcePath": "sprites\\spr_female_hair_swoop_blonde\\spr_female_hair_swoop_blonde.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3991,34 +2215,10 @@
             }
         },
         {
-            "Key": "e6879226-bae9-4dc3-b12c-db9a3051fd80",
-            "Value": {
-                "id": "64cf7c9a-72ab-4e50-99ca-e2b86c8f89ad",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_blonde2\\spr_female_hair_unkempt_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e6c77145-ce73-4f8e-8505-e574855024f7",
             "Value": {
                 "id": "4b80a1f9-0894-46a6-8cd9-563cbd4b5a47",
                 "resourcePath": "sprites\\spr_male_nose_buttonnose_tanned2\\spr_male_nose_buttonnose_tanned2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e6d6dc01-2dca-4466-b927-ae19fdbd30a8",
-            "Value": {
-                "id": "a7c8d903-b614-4dde-9c07-62aae2552b6b",
-                "resourcePath": "sprites\\spr_female_hair_swoop_brunette2\\spr_female_hair_swoop_brunette2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e7073943-b049-4ac3-95a7-e7fd45273d07",
-            "Value": {
-                "id": "7866d752-5973-4ba0-b646-2004aa912267",
-                "resourcePath": "sprites\\spr_female_torso_dress_tightdress_lightblue\\spr_female_torso_dress_tightdress_lightblue.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -4047,38 +2247,6 @@
             }
         },
         {
-            "Key": "e7adf25b-f5c0-4a89-8a77-74b605253cdf",
-            "Value": {
-                "id": "6840e76f-1948-4a06-a9e4-dee8f95e3242",
-                "resourcePath": "sprites\\spr_male_hair_bangslong_raven2\\spr_male_hair_bangslong_raven2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e80d439b-02a5-4bb0-9b94-5e1edfb67229",
-            "Value": {
-                "id": "fe34f0ba-926a-4ea2-ad86-be9cfbeb6cee",
-                "resourcePath": "sprites\\spr_female_nose_buttonnose_light\\spr_female_nose_buttonnose_light.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e8288062-23a5-4864-ae8c-2eb04f068ab1",
-            "Value": {
-                "id": "9da5f568-5c85-41b4-bc31-5591ff4d7439",
-                "resourcePath": "sprites\\spr_female_ears_elvenears_darkelf\\spr_female_ears_elvenears_darkelf.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e8e0df73-8e19-4d67-9da3-05a4e58fad9c",
-            "Value": {
-                "id": "fba35bfe-2465-4c10-96d1-52ca6731e0db",
-                "resourcePath": "sprites\\spr_female_hair_swoop_raven2\\spr_female_hair_swoop_raven2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e9127e20-4741-4f8b-9967-26aea7734bd3",
             "Value": {
                 "id": "17baf0a0-81b7-48ca-9fb7-6a4a9a431632",
@@ -4091,14 +2259,6 @@
             "Value": {
                 "id": "ce355390-8b74-4af1-88ba-09f4ebfd9c11",
                 "resourcePath": "sprites\\spr_tile_terrain_1\\spr_tile_terrain_1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ea3d1a1c-2d10-44a5-852e-e549962abfa8",
-            "Value": {
-                "id": "1b242499-1507-439a-ae64-bcbec89e020c",
-                "resourcePath": "sprites\\spr_female_hair_swoop_green\\spr_female_hair_swoop_green.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -4119,14 +2279,6 @@
             }
         },
         {
-            "Key": "ed2b396a-067a-4771-8fa8-f86a3fa5deac",
-            "Value": {
-                "id": "5e833100-5fd8-43c5-b458-cc9beeaf447a",
-                "resourcePath": "views\\ed2b396a-067a-4771-8fa8-f86a3fa5deac.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "ed6a2244-3c66-410b-8f77-076c362a04e8",
             "Value": {
                 "id": "263cdefc-bc4f-4c48-8e99-dc75f699fcc3",
@@ -4135,74 +2287,10 @@
             }
         },
         {
-            "Key": "ed72bce7-ffa0-4c66-9f41-3d0740b9c44a",
-            "Value": {
-                "id": "1b1417a2-2192-4af1-b1f4-86e146d2adbb",
-                "resourcePath": "sprites\\spr_female_eyes_purple\\spr_female_eyes_purple.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "eda66727-a47f-40f7-9d07-4b0525e2ee5d",
-            "Value": {
-                "id": "babf5fe0-4879-4db2-920d-963e321c1caa",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_white_blonde2\\spr_female_hair_xlongknot_white_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ee27f14c-376e-4eee-8df0-d27d6dec0a3f",
-            "Value": {
-                "id": "5c160956-06d4-4c09-9049-9e89e6f2f565",
-                "resourcePath": "sprites\\spr_female_nose_straightnose_dark\\spr_female_nose_straightnose_dark.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ee3e5270-6b75-4197-9892-1c329aa62291",
-            "Value": {
-                "id": "6e110180-7bf7-434a-a7ba-f88ac4c55151",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_pink\\spr_female_hair_unkempt_pink.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ef25debb-fa95-4cb1-94e0-145e80f03b5f",
-            "Value": {
-                "id": "088fc0b3-967b-4130-9734-021cb3873e46",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_green\\spr_female_hair_xlongknot_green.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ef823df5-a469-40a0-8db3-8c2367ac94e0",
-            "Value": {
-                "id": "274c36d7-66ba-4370-b700-97b4aa232d05",
-                "resourcePath": "sprites\\spr_female_hair_xlong_light_blonde2\\spr_female_hair_xlong_light_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "efa94b2b-6455-4ce4-8d6c-148eb9425f28",
-            "Value": {
-                "id": "6b77e184-482b-4454-bce0-92eab16bbddb",
-                "resourcePath": "sprites\\spr_female_hair_xlong_blue\\spr_female_hair_xlong_blue.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "efb220cd-17d3-40fa-8c34-c70f5482b812",
             "Value": {
                 "id": "b53770ad-69ba-48ec-a1e1-da6e2ed146a9",
                 "resourcePath": "sprites\\spr_male_nose_bignose_darkelf2\\spr_male_nose_bignose_darkelf2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f10148e4-18a1-4cde-8769-2b3b611ec976",
-            "Value": {
-                "id": "f2d81ab2-8b66-4357-984d-c4e090671d47",
-                "resourcePath": "sprites\\spr_female_hair_xlong_pink2\\spr_female_hair_xlong_pink2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -4239,27 +2327,11 @@
             }
         },
         {
-            "Key": "f35570c0-d8ed-4a4c-931f-0636ec0c85c1",
-            "Value": {
-                "id": "9ed989cb-b9a6-4d6f-9e5a-e69ee66c22fd",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_purple\\spr_female_hair_unkempt_purple.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f35df61c-4998-4eeb-8ea8-cdea81e4be7b",
             "Value": {
                 "id": "38bf42c6-e0f1-4ba8-8555-8d350e98f639",
                 "resourcePath": "views\\f35df61c-4998-4eeb-8ea8-cdea81e4be7b.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f39ee300-031e-49a3-9a1a-e63cd10228b6",
-            "Value": {
-                "id": "5ef3890b-b75d-4b53-ac96-39932eb71256",
-                "resourcePath": "sprites\\spr_female_hair_swoop_raven\\spr_female_hair_swoop_raven.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -4279,35 +2351,11 @@
             }
         },
         {
-            "Key": "f4adf1a1-d35b-4eea-b8fb-6e59d36e7af4",
-            "Value": {
-                "id": "96d40b19-ffb7-4862-a9f5-e6c05b8f648f",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_gray\\spr_female_hair_unkempt_gray.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f4b3a2da-f60e-4432-abe2-a5b4007771c9",
-            "Value": {
-                "id": "4f20d8bb-adf2-4e15-afcb-a012b73c68e9",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_gold\\spr_female_hair_xlongknot_gold.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f4ddd0cb-50e8-42fd-8173-fb724328dabc",
             "Value": {
                 "id": "a88b8673-e9cd-4961-b6a2-b9ff87ff5c9f",
                 "resourcePath": "sprites\\spr_male_legs_red_pants_male\\spr_male_legs_red_pants_male.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f59301fa-85aa-490b-8c81-baaa042ef02c",
-            "Value": {
-                "id": "828f723b-1d03-46bd-9643-0a329b8f4e04",
-                "resourcePath": "views\\f59301fa-85aa-490b-8c81-baaa042ef02c.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -4327,22 +2375,6 @@
             }
         },
         {
-            "Key": "f8175933-8cdf-440a-a322-233ba075c043",
-            "Value": {
-                "id": "4a918c77-91db-4a44-87b4-dff73a2ef837",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_gray2\\spr_female_hair_xlongknot_gray2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f86d4ee2-c064-4fe7-9808-ff789ad6581a",
-            "Value": {
-                "id": "123a373a-bec4-4f1d-86ea-fc69b04d88df",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_light_blonde2\\spr_female_hair_xlongknot_light_blonde2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f870a0a7-ea74-42d5-92dd-606aedd890c6",
             "Value": {
                 "id": "4a08ac00-d822-40d3-bc7d-7cb811090031",
@@ -4359,27 +2391,11 @@
             }
         },
         {
-            "Key": "f8f06a76-107f-4c04-935e-ce3de0dfc4d7",
-            "Value": {
-                "id": "db0c1619-99dc-47e4-8f5f-41612aa63ac3",
-                "resourcePath": "sprites\\spr_female_nose_straightnose_tanned\\spr_female_nose_straightnose_tanned.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f9324b48-0f94-4c5b-9d94-6944ac17ef9a",
             "Value": {
                 "id": "49860511-a997-49e3-8e1e-6e0b2853713f",
                 "resourcePath": "views\\f9324b48-0f94-4c5b-9d94-6944ac17ef9a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f942558a-6e66-4694-b266-73c8d98a004c",
-            "Value": {
-                "id": "f336452b-d882-494d-82d5-c24a610b4675",
-                "resourcePath": "sprites\\spr_male_hair_bangs_green2\\spr_male_hair_bangs_green2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -4391,43 +2407,11 @@
             }
         },
         {
-            "Key": "fb3b2532-95c3-42dc-8bc4-d0efed0dcde8",
-            "Value": {
-                "id": "1f9f9653-5099-4a1f-94ad-f409e7074d94",
-                "resourcePath": "views\\fb3b2532-95c3-42dc-8bc4-d0efed0dcde8.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "fb8e54ad-271e-41c9-8bee-6b6b0adc3614",
-            "Value": {
-                "id": "e772857e-27bf-4dd4-81b9-2bf05c66263f",
-                "resourcePath": "sprites\\spr_female_hair_unkempt_raven\\spr_female_hair_unkempt_raven.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "fc5eb8d0-c009-41d0-87e4-500991f4b00d",
             "Value": {
                 "id": "aaf36776-6416-4213-aa7f-14c260877628",
                 "resourcePath": "fonts\\fnt_Text_24\\fnt_Text_24.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "fc7440b9-e2ca-4b6f-a9bb-7fefc21b44c7",
-            "Value": {
-                "id": "5bd96f74-3c99-495d-8245-459253b02439",
-                "resourcePath": "sprites\\spr_female_hair_xlongknot_redhead2\\spr_female_hair_xlongknot_redhead2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "fce9257b-0cd6-4fa4-b9ad-6a94c5bbe932",
-            "Value": {
-                "id": "1c03cc32-2cc1-4543-a04b-492f1f15fb12",
-                "resourcePath": "sprites\\spr_female_feet_slippers_gray\\spr_female_feet_slippers_gray.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
