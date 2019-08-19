@@ -19,4 +19,4 @@ spr_torso2 = spr_male_torso_gold_arms_male;
 spr_torso3 = spr_male_torso_gold_spikes_male;
 spr_legs = spr_male_legs_golden_greaves_male;
 spr_feet = spr_male_feet_golden_boots_male;
-spr_hair = spr_male_hair_bedheadt_pink2;
+spr_hair = spr_male_hair_bedheadt_pink;
