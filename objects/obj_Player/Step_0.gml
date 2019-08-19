@@ -10,8 +10,16 @@ input_down = keyboard_check(ord("S"));
 input_shift = keyboard_check(vk_lshift);
 
 //---------------------------- ОБНОВЛЕНИЕ СКОРОСТИ
-if (input_shift) pl_speed = pl_runSpeed;
-else pl_speed = pl_walkSpeed;
+if (input_shift && pl_stamina > 0)
+{
+	pl_speed = pl_runSpeed;
+	pl_stamina -=5;
+}
+else 
+{
+	pl_speed = pl_walkSpeed;
+	if (pl_stamina < 199) pl_stamina +=1;
+}
 
 //---------------------------- СБРОС ПЕРЕМЕННЫХ
 x_offset = 0;
