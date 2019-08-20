@@ -1,24 +1,29 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
 //---------------------------- ОБНОВЛЕНИЕ ВХОДНЫХ ЗНАЧЕНИЙ
 input_left = keyboard_check(ord("A"));
 input_right = keyboard_check(ord("D"));
 input_up = keyboard_check(ord("W"));
 input_down = keyboard_check(ord("S"));
 
-input_shift = keyboard_check(vk_lshift);
+if (keyboard_check_pressed(vk_lshift)) input_shift_on = true;
+input_shift_press = keyboard_check(vk_lshift);
+
+if (x_offset != 0 || y_offset != 0) pl_is_moving = true; // обновление is_moving
 
 //---------------------------- ОБНОВЛЕНИЕ СКОРОСТИ
-if (input_shift && pl_stamina > 0)
+if (pl_stamina > 0 && input_shift_press && input_shift_on)
 {
 	pl_speed = pl_runSpeed;
-	pl_stamina -=5;
+	if (pl_is_moving) pl_stamina -= pl_stamina_spend_multiplyer;
 }
-else 
+else
 {
 	pl_speed = pl_walkSpeed;
-	if (pl_stamina < 199) pl_stamina +=1;
+	input_shift_on = false;
+	if (pl_stamina < pl_stamina_max) pl_stamina +=1;
 }
 
 //---------------------------- СБРОС ПЕРЕМЕННЫХ

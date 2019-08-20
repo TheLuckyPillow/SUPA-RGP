@@ -194,7 +194,7 @@
             "Key": "23267eac-ce49-47e0-af7e-3f69bc8b6b07",
             "Value": {
                 "id": "f2638768-f93d-4eb7-9039-2cf663bad5e9",
-                "resourcePath": "objects\\obj_hud_Stamina\\obj_hud_Stamina.yy",
+                "resourcePath": "objects\\obj_hud\\obj_hud.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -292,14 +292,6 @@
                 "id": "f55880c1-a849-4de2-916c-8ee500b47199",
                 "resourcePath": "views\\2d5052c8-6949-41c8-ba8c-97d7e2897f79.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "2d9136c8-886a-4592-9d8e-1e8678c3c551",
-            "Value": {
-                "id": "8c75e9a7-32ca-4aa6-ae90-7bd67b779f61",
-                "resourcePath": "scripts\\scr_Collision\\scr_Collision.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -1495,6 +1487,14 @@
             }
         },
         {
+            "Key": "f92c2701-6305-419b-9f98-8b4d67474245",
+            "Value": {
+                "id": "7f02854e-2f06-4119-8430-9676d02b2afd",
+                "resourcePath": "sprites\\spr_Health\\spr_Health.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f9324b48-0f94-4c5b-9d94-6944ac17ef9a",
             "Value": {
                 "id": "49860511-a997-49e3-8e1e-6e0b2853713f",
@@ -1520,7 +1520,7 @@
         }
     ],
     "script_order": [
-        "2d9136c8-886a-4592-9d8e-1e8678c3c551"
+        
     ],
     "tutorial": ""
 }

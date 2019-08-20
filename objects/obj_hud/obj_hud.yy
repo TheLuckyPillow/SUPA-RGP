@@ -2,7 +2,7 @@
     "id": "23267eac-ce49-47e0-af7e-3f69bc8b6b07",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_hud_Stamina",
+    "name": "obj_hud",
     "eventList": [
         {
             "id": "f26519f8-8950-46c2-8c9e-f1881324b922",
