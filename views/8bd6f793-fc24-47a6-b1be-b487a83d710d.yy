@@ -6,8 +6,8 @@
     "children": [
         "a4eaa97b-b2f7-40ab-a852-16f6f51ad53c",
         "43b208cd-1806-4daf-b898-f3247d23fb38",
-        "e0d83e90-fb09-4deb-b737-001b2d001df3",
-        "23267eac-ce49-47e0-af7e-3f69bc8b6b07"
+        "23267eac-ce49-47e0-af7e-3f69bc8b6b07",
+        "ffa82382-8e9e-443d-9f1d-998002d96139"
     ],
     "filterType": "GMObject",
     "folderName": "meta",

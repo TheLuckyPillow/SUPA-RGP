@@ -58,3 +58,10 @@ if(place_meeting(x, y + y_offset, obj_Collision))
 //---------------------------- ПРИМИНЕНИЕ ДВИЖЕНИЯ
 x += x_offset;
 y += y_offset;
+
+//--------------------ПРОВЕРКА ЭКИПИРОВКИ
+
+pl_incr_health = armor_health + legs_health + head_health;
+pl_health_max = 100 + pl_incr_health;
+if(pl_health > pl_health_max)
+	pl_health = pl_health_max;

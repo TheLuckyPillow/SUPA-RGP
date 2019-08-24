@@ -13,13 +13,22 @@ y_offset = 0;
 
 
 pl_health = 70;
-pl_health_max = 100;
+armor_health = 0;
+legs_health = 0;
+head_health = 0;
+pl_incr_health = armor_health + legs_health + head_health;
+pl_health_max = 100 + pl_incr_health;
 pl_health_regen_mult = 1;
 
 pl_stamina = 10;
 pl_stamina_max = 250;
 pl_stamina_spend_multiplyer = 1;
 input_shift_on = false;
+
+pl_mana = 150;
+pl_mana_max = 200;
+pl_mana_regen_mult = 4;
+
 
 x_frame = 1; // кадры в spritesheet of character
 y_frame = 8;
