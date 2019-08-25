@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+event_inherited();
 //---------------------------- ОБНОВЛЕНИЕ ВХОДНЫХ ЗНАЧЕНИЙ
 input_left = keyboard_check(ord("A"));
 input_right = keyboard_check(ord("D"));

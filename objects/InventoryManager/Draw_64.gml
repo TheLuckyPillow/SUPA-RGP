@@ -1,4 +1,5 @@
 if(!show_inventory) exit;
+var frame_size = 64;
 
 draw_set_font(fnt_Text_24);
 var c = c_black;
@@ -64,3 +65,17 @@ if(pickup_slot != -1){
 	var inum = itemDefinitions[pickid, ItemProperties.amount];
 	draw_text_color(mousex + (cell_size*scale*0.2), mousey, string(inum), c,c,c,c,1);
 }
+
+//Пресонаж
+
+draw_sprite_part_ext(spr_base, 0, 0,128,frame_size,frame_size,inv_equip_x + (cell_size + 4)*scale,slots_y, scale, scale, c_white,1);
+//------------------DRAW CHARACTER FEET
+draw_sprite_part_ext(spr_feet, 0, 0,128,frame_size,frame_size,inv_equip_x + (cell_size + 4)*scale,slots_y, scale, scale, c_white,1);
+//------------------DRAW CHARACTER LEGS
+draw_sprite_part_ext(spr_legs, 0, 0,128,frame_size,frame_size,inv_equip_x + (cell_size + 4)*scale,slots_y, scale, scale, c_white,1);
+//------------------DRAW CHARACTER SHIRT
+draw_sprite_part_ext(spr_torso1, 0, 0,128,frame_size,frame_size,inv_equip_x + (cell_size + 4)*scale,slots_y, scale, scale, c_white,1);
+draw_sprite_part_ext(spr_torso2, 0, 0,128,frame_size,frame_size,inv_equip_x + (cell_size + 4)*scale,slots_y, scale, scale, c_white,1);
+draw_sprite_part_ext(spr_torso3, 0, 0,128,frame_size,frame_size,inv_equip_x + (cell_size + 4)*scale,slots_y, scale, scale, c_white,1);
+//------------------DRAW CHARACTER HAIR
+draw_sprite_part_ext(spr_hair, 0, 0,128,frame_size,frame_size,inv_equip_x + (cell_size + 4)*scale,slots_y, scale, scale, c_white,1);

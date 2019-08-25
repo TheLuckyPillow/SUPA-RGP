@@ -2,7 +2,7 @@ if(keyboard_check_pressed(ord("I"))){show_inventory = !show_inventory;}
 
 if(!show_inventory) exit;
 
-if(keyboard_check_pressed(ord("M")))
+if(mouse_check_button_pressed(mb_left))
 	{	var _idtouse = inventory[selected_slot];
 		inv_useItem(_idtouse);
 	}

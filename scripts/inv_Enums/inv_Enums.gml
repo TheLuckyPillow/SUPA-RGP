@@ -6,6 +6,7 @@ enum ItemId {
 	GoldArmor,
 	flask_stamina,
 	flask_health,
+	flask_mana,
 	lenght,
 }
 
