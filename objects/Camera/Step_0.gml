@@ -1,7 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+//if !instance_exists(obj_Player) exit; //если персонаж не существует/мертв — выход
+if (instance_exists(obj_Player))
+{
 freeCam = keyboard_check(vk_f8);
 if(freeCam)
 {
@@ -14,4 +16,5 @@ else
 {
 	x = clamp(x, follow_obj.x-horizontal_border,  follow_obj.x+horizontal_border);
 	y = clamp(y, follow_obj.y-vertical_border, follow_obj.y+vertical_border);
+}
 }

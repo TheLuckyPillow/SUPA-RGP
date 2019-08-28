@@ -1,0 +1,1 @@
+global.change_key="sprint";

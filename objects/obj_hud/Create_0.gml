@@ -5,6 +5,7 @@ depth = -1;
 scale = 2; //Масшабирование
 show_hud = true;
 
+
 stamina_scaled = obj_Player.pl_stamina / (obj_Player.pl_stamina_max / 100) * scale;
 health_scaled = obj_Player.pl_health / (obj_Player.pl_health_max / 100) * scale;
 mana_scaled = obj_Player.pl_mana / (obj_Player.pl_mana_max / 100) * scale;

@@ -1,0 +1,1 @@
+hitbox_creator = noone;

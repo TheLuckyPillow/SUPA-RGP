@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+scr_create_hitbox(x,y,self)
 alarm[0] = 60;
 
 pl_runSpeed = 4;
@@ -21,7 +21,7 @@ pl_incr_health = armor_health + legs_health + head_health;
 pl_health_max = 100 + pl_incr_health;
 pl_health_regen_mult = 1;
 
-pl_stamina = 10;
+pl_stamina = 150;
 pl_stamina_max = 250;
 pl_stamina_spend_multiplyer = 1;
 input_shift_on = false;
@@ -44,3 +44,5 @@ spr_torso3 = spr_male_torso_gold_spikes_male;
 spr_legs = spr_male_legs_golden_greaves_male;
 spr_feet = spr_male_feet_golden_boots_male;
 spr_hair = spr_male_hair_bedheadt_pink;
+
+

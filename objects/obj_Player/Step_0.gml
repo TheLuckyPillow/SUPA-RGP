@@ -3,13 +3,14 @@
 
 event_inherited();
 //---------------------------- ОБНОВЛЕНИЕ ВХОДНЫХ ЗНАЧЕНИЙ
-input_left = keyboard_check(ord("A"));
-input_right = keyboard_check(ord("D"));
-input_up = keyboard_check(ord("W"));
-input_down = keyboard_check(ord("S"));
+input_left = keyboard_check(global.left);
+input_right = keyboard_check(global.right);
+input_up = keyboard_check(global.up);
+input_down = keyboard_check(global.down);
 
-if (keyboard_check_pressed(vk_lshift)) input_shift_on = true;
-input_shift_press = keyboard_check(vk_lshift);
+
+if (keyboard_check_pressed(global.sprint)) input_shift_on = true;
+input_shift_press = keyboard_check(global.sprint);
 
 if (x_offset != 0 || y_offset != 0) pl_is_moving = true; // обновление is_moving
 
@@ -55,6 +56,16 @@ if(place_meeting(x, y + y_offset, obj_Collision))
 	}
 	y_offset = 0;
 }
+//---- OBJECTS
+var inst = instance_place(x,y,obj_Transition);
+if(inst != noone)
+{
+	room_goto(inst.targetRoom);
+	x = inst.target_x;
+	y = inst.target_y;
+	targetRoom = -1;
+
+}
 //---------------------------- ПРИМИНЕНИЕ ДВИЖЕНИЯ
 x += x_offset;
 y += y_offset;
@@ -65,3 +76,16 @@ pl_incr_health = armor_health + legs_health + head_health;
 pl_health_max = 100 + pl_incr_health;
 if(pl_health > pl_health_max)
 	pl_health = pl_health_max;
+
+num = instance_number(obj_hitbox); 
+for (i = 0; i < num; i += 1) { 
+    find = instance_find(obj_hitbox, i); 
+    if (find.hitbox_creator = self) { 
+      find.x = x;
+	  find.y = y;
+    } 
+}
+
+
+if(pl_health <=0)
+game_restart();
